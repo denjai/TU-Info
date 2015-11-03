@@ -1,0 +1,16 @@
+<IfModule mod_deflate.c>
+    <filesMatch "\.(js|css|html|php)$">
+        SetOutputFilter DEFLATE
+    </filesMatch>
+</IfModule>
+ExpiresActive On
+<IfModule mod_headers.c>
+    <filesMatch "\.(js|css|gif)$">
+        Header set Cache-Control "max-age=10800"
+    </filesMatch>
+   <filesMatch "\.(php)$">
+        Header set Cache-Control "no-store"
+    </filesMatch>
+</IfModule>
+
+ 

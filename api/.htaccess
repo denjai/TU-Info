@@ -1,0 +1,23 @@
+<IfModule mod_deflate.c>
+    <filesMatch "\.(js|css|html|php)$">
+        SetOutputFilter DEFLATE
+    </filesMatch>
+</IfModule>
+Options +FollowSymLinks
+RewriteEngine On
+
+RewriteRule ^names\/([a-zA-Z]*|[a-zA-Z]*\_[a-zA-Z]*)$   index.php?name=$1  [nc,qsa,l]   # /names/X
+RewriteRule ^names$                index.php?name=0   [nc,qsa,l]   # /names/X
+
+RewriteRule ^types\/([a-zA-Z]*)$   index.php?type=$1  [nc,qsa,l]   # /types/X
+RewriteRule ^types$                index.php?type=0   [nc,qsa,l]   # /names/X
+
+RewriteRule ^locations\/latitude\-([0-9]*\.[0-9]*)\/longitude\-([0-9]*\.[0-9]*)$   index.php?latitude=$1&longitude=$2  [nc,qsa,l]  # /location/latitude-X/longitude-Y
+RewriteRule ^locations\/longitude\-([0-9]*\.[0-9]*)\/latitude\-([0-9]*\.[0-9]*)$   index.php?latitude=$2&longitude=$1  [nc,qsa,l]  # /location/latitude-X/longitude-Y
+RewriteRule ^locations$      index.php?latitude=0&longitude=0  [nc,qsa,l]  #/location
+
+
+RewriteRule ^locations\/latitude\-([0-9]*\.[0-9]*)\/longitude\-([0-9]*\.[0-9]*)\/types\/([a-zA-Z]*)$   index.php?latitude=$1&longitude=$2&type=$3  [nc,qsa,l]  # /location/latitude-X/longitude-Y
+RewriteRule ^types\/([a-zA-Z]*)\/locations\/latitude\-([0-9]*\.[0-9]*)\/longitude\-([0-9]*\.[0-9]*)$   index.php?latitude=$2&longitude=$3&type=$1  [nc,qsa,l]  # /location/latitude-X/longitude-Y
+
+RewriteRule ^$   index.php?errors=1  [nc,qsa,l]  # /

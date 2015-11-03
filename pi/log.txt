@@ -1,0 +1,1579 @@
+30-12-2014 17:47 - [server_room]   Humidity:37.46,          Temperature:21.32;
+30-12-2014 17:47 - [garden]   Humidity:23.14,          Temperature:25.36;
+30-12-2014 17:48 - [server_room]   Humidity:36.93,          Temperature:21.39;
+30-12-2014 17:48 - [garden]   Humidity:23.14,          Temperature:25.36;
+30-12-2014 17:50 - [server_room]   Humidity:37.45,          Temperature:21.20;
+30-12-2014 17:50 - [garden]   Humidity:23.14,          Temperature:25.32;
+30-12-2014 17:51 - [server_room]   Humidity:37.44,          Temperature:21.12;
+30-12-2014 17:51 - [garden]   Humidity:24.29,          Temperature:25.04;
+30-12-2014 17:52 - [server_room]   Humidity:37.46,          Temperature:21.32;
+30-12-2014 17:52 - [garden]   Humidity:23.73,          Temperature:25.32;
+30-12-2014 17:53 - [server_room]   Humidity:36.41,          Temperature:21.64;
+30-12-2014 17:53 - [garden]   Humidity:23.14,          Temperature:25.40;
+30-12-2014 17:54 - [server_room]   Humidity:36.93,          Temperature:21.43;
+30-12-2014 17:54 - [garden]   Humidity:23.15,          Temperature:25.40;
+30-12-2014 17:55 - [server_room]   Humidity:37.47,          Temperature:21.36;
+30-12-2014 17:55 - [garden]   Humidity:23.14,          Temperature:25.36;
+30-12-2014 17:55 - [server_room]   Humidity:37.47,          Temperature:21.39;
+30-12-2014 17:55 - [garden]   Humidity:23.14,          Temperature:25.36;
+30-12-2014 17:56 - [server_room]   Humidity:37.45,          Temperature:21.24;
+30-12-2014 17:56 - [garden]   Humidity:22.55,          Temperature:25.28;
+30-12-2014 17:57 - [server_room]   Humidity:37.45,          Temperature:21.16;
+30-12-2014 17:57 - [garden]   Humidity:23.14,          Temperature:25.28;
+30-12-2014 17:58 - [server_room]   Humidity:37.40,          Temperature:20.72;
+30-12-2014 17:58 - [garden]   Humidity:23.15,          Temperature:25.32;
+30-12-2014 17:58 - [server_room]   Humidity:37.95,          Temperature:20.64;
+30-12-2014 17:58 - [garden]   Humidity:23.14,          Temperature:25.32;
+30-12-2014 17:59 - [server_room]   Humidity:38.39,          Temperature:19.84;
+30-12-2014 17:59 - [garden]   Humidity:23.14,          Temperature:25.28;
+30-12-2014 17:59 - [server_room]   Humidity:38.92,          Temperature:19.75;
+30-12-2014 17:59 - [garden]   Humidity:23.14,          Temperature:25.28;
+30-12-2014 18:00 - [server_room]   Humidity:38.36,          Temperature:19.20;
+30-12-2014 18:00 - [garden]   Humidity:23.14,          Temperature:25.28;
+30-12-2014 18:00 - [server_room]   Humidity:37.25,          Temperature:19.24;
+30-12-2014 18:00 - [garden]   Humidity:22.55,          Temperature:25.28;
+30-12-2014 18:01 - [server_room]   Humidity:37.23,          Temperature:18.96;
+30-12-2014 18:01 - [garden]   Humidity:21.96,          Temperature:25.20;
+30-12-2014 18:01 - [server_room]   Humidity:37.23,          Temperature:18.92;
+30-12-2014 18:01 - [garden]   Humidity:21.96,          Temperature:25.20;
+30-12-2014 18:02 - [server_room]   Humidity:38.33,          Temperature:19.24;
+30-12-2014 18:02 - [garden]   Humidity:21.96,          Temperature:25.20;
+30-12-2014 18:02 - [server_room]   Humidity:38.33,          Temperature:19.24;
+30-12-2014 18:02 - [garden]   Humidity:21.96,          Temperature:25.20;
+30-12-2014 18:03 - [server_room]   Humidity:38.33,          Temperature:19.12;
+30-12-2014 18:03 - [garden]   Humidity:21.95,          Temperature:25.12;
+30-12-2014 18:04 - [server_room]   Humidity:38.33,          Temperature:19.20;
+30-12-2014 18:04 - [garden]   Humidity:21.95,          Temperature:25.12;
+30-12-2014 18:05 - [server_room]   Humidity:38.33,          Temperature:19.28;
+30-12-2014 18:05 - [garden]   Humidity:21.95,          Temperature:25.08;
+30-12-2014 18:05 - [server_room]   Humidity:38.33,          Temperature:19.28;
+30-12-2014 18:05 - [garden]   Humidity:21.95,          Temperature:25.08;
+30-12-2014 18:06 - [server_room]   Humidity:37.78,          Temperature:19.12;
+30-12-2014 18:06 - [garden]   Humidity:21.95,          Temperature:25.08;
+30-12-2014 18:06 - [server_room]   Humidity:38.32,          Temperature:19.12;
+30-12-2014 18:06 - [garden]   Humidity:21.95,          Temperature:25.08;
+30-12-2014 18:07 - [server_room]   Humidity:38.31,          Temperature:19.00;
+30-12-2014 18:07 - [garden]   Humidity:21.95,          Temperature:25.04;
+30-12-2014 18:07 - [server_room]   Humidity:38.31,          Temperature:19.04;
+30-12-2014 18:07 - [garden]   Humidity:21.95,          Temperature:25.04;
+30-12-2014 18:08 - [server_room]   Humidity:38.32,          Temperature:19.12;
+30-12-2014 18:08 - [garden]   Humidity:21.95,          Temperature:25.00;
+30-12-2014 18:08 - [server_room]   Humidity:38.32,          Temperature:19.07;
+30-12-2014 18:08 - [garden]   Humidity:21.95,          Temperature:25.00;
+30-12-2014 18:09 - [server_room]   Humidity:38.31,          Temperature:19.04;
+30-12-2014 18:09 - [garden]   Humidity:22.53,          Temperature:24.96;
+30-12-2014 18:09 - [server_room]   Humidity:38.31,          Temperature:19.04;
+30-12-2014 18:09 - [garden]   Humidity:22.53,          Temperature:24.96;
+30-12-2014 18:10 - [server_room]   Humidity:38.85,          Temperature:19.00;
+30-12-2014 18:10 - [garden]   Humidity:22.53,          Temperature:24.88;
+30-12-2014 18:11 - [server_room]   Humidity:38.85,          Temperature:18.92;
+30-12-2014 18:11 - [garden]   Humidity:22.52,          Temperature:24.88;
+30-12-2014 18:12 - [server_room]   Humidity:38.82,          Temperature:18.80;
+30-12-2014 18:12 - [garden]   Humidity:23.11,          Temperature:24.88;
+30-12-2014 18:12 - [server_room]   Humidity:39.35,          Temperature:18.72;
+30-12-2014 18:12 - [garden]   Humidity:23.11,          Temperature:24.84;
+30-12-2014 18:13 - [server_room]   Humidity:39.36,          Temperature:18.64;
+30-12-2014 18:13 - [garden]   Humidity:23.11,          Temperature:24.84;
+30-12-2014 18:13 - [server_room]   Humidity:39.34,          Temperature:18.64;
+30-12-2014 18:13 - [garden]   Humidity:23.11,          Temperature:24.84;
+30-12-2014 18:14 - [server_room]   Humidity:39.85,          Temperature:18.43;
+30-12-2014 18:14 - [garden]   Humidity:23.11,          Temperature:24.80;
+30-12-2014 18:14 - [server_room]   Humidity:39.85,          Temperature:18.39;
+30-12-2014 18:14 - [garden]   Humidity:23.11,          Temperature:24.80;
+30-12-2014 18:15 - [server_room]   Humidity:39.86,          Temperature:18.52;
+30-12-2014 18:15 - [garden]   Humidity:23.11,          Temperature:24.80;
+30-12-2014 18:15 - [server_room]   Humidity:39.86,          Temperature:18.52;
+30-12-2014 18:15 - [garden]   Humidity:23.10,          Temperature:24.80;
+30-12-2014 18:16 - [server_room]   Humidity:39.85,          Temperature:18.43;
+30-12-2014 18:16 - [garden]   Humidity:23.10,          Temperature:24.72;
+30-12-2014 18:16 - [server_room]   Humidity:39.85,          Temperature:18.36;
+30-12-2014 18:16 - [garden]   Humidity:23.10,          Temperature:24.72;
+30-12-2014 18:17 - [server_room]   Humidity:40.36,          Temperature:18.20;
+30-12-2014 18:17 - [garden]   Humidity:23.10,          Temperature:24.72;
+30-12-2014 18:18 - [server_room]   Humidity:40.36,          Temperature:18.24;
+30-12-2014 18:18 - [garden]   Humidity:23.10,          Temperature:24.72;
+30-12-2014 18:19 - [server_room]   Humidity:40.34,          Temperature:18.04;
+30-12-2014 18:19 - [garden]   Humidity:23.10,          Temperature:24.64;
+30-12-2014 18:19 - [server_room]   Humidity:40.87,          Temperature:18.00;
+30-12-2014 18:19 - [garden]   Humidity:23.10,          Temperature:24.64;
+30-12-2014 18:20 - [server_room]   Humidity:40.85,          Temperature:17.88;
+30-12-2014 18:20 - [garden]   Humidity:23.09,          Temperature:24.64;
+30-12-2014 18:20 - [server_room]   Humidity:40.85,          Temperature:17.88;
+30-12-2014 18:20 - [garden]   Humidity:23.09,          Temperature:24.64;
+30-12-2014 18:21 - [server_room]   Humidity:41.37,          Temperature:17.84;
+30-12-2014 18:21 - [garden]   Humidity:23.09,          Temperature:24.56;
+30-12-2014 18:21 - [server_room]   Humidity:40.84,          Temperature:17.84;
+30-12-2014 18:21 - [garden]   Humidity:23.09,          Temperature:24.56;
+30-12-2014 18:22 - [server_room]   Humidity:41.38,          Temperature:17.92;
+30-12-2014 18:22 - [garden]   Humidity:23.09,          Temperature:24.60;
+30-12-2014 18:22 - [server_room]   Humidity:41.38,          Temperature:17.92;
+30-12-2014 18:22 - [garden]   Humidity:23.09,          Temperature:24.64;
+30-12-2014 18:23 - [server_room]   Humidity:40.87,          Temperature:18.04;
+30-12-2014 18:23 - [garden]   Humidity:23.09,          Temperature:24.56;
+30-12-2014 18:23 - [server_room]   Humidity:40.87,          Temperature:18.04;
+30-12-2014 18:23 - [garden]   Humidity:23.09,          Temperature:24.56;
+30-12-2014 18:24 - [server_room]   Humidity:40.86,          Temperature:17.96;
+30-12-2014 18:24 - [garden]   Humidity:23.09,          Temperature:24.56;
+30-12-2014 18:25 - [server_room]   Humidity:40.86,          Temperature:18.00;
+30-12-2014 18:25 - [garden]   Humidity:23.09,          Temperature:24.52;
+30-12-2014 18:26 - [server_room]   Humidity:40.87,          Temperature:18.04;
+30-12-2014 18:26 - [garden]   Humidity:23.09,          Temperature:24.52;
+30-12-2014 18:26 - [server_room]   Humidity:40.87,          Temperature:18.04;
+30-12-2014 18:26 - [garden]   Humidity:23.09,          Temperature:24.48;
+30-12-2014 18:27 - [server_room]   Humidity:40.86,          Temperature:18.00;
+30-12-2014 18:27 - [garden]   Humidity:23.08,          Temperature:24.48;
+30-12-2014 18:27 - [server_room]   Humidity:40.86,          Temperature:18.00;
+30-12-2014 18:27 - [garden]   Humidity:23.08,          Temperature:24.44;
+30-12-2014 18:28 - [server_room]   Humidity:40.86,          Temperature:17.96;
+30-12-2014 18:28 - [garden]   Humidity:23.08,          Temperature:24.44;
+30-12-2014 18:28 - [server_room]   Humidity:40.86,          Temperature:17.88;
+30-12-2014 18:28 - [garden]   Humidity:23.08,          Temperature:24.40;
+30-12-2014 18:29 - [server_room]   Humidity:41.38,          Temperature:17.84;
+30-12-2014 18:29 - [garden]   Humidity:23.08,          Temperature:24.40;
+30-12-2014 18:29 - [server_room]   Humidity:41.38,          Temperature:17.84;
+30-12-2014 18:29 - [garden]   Humidity:23.08,          Temperature:24.40;
+30-12-2014 18:30 - [server_room]   Humidity:41.37,          Temperature:17.80;
+30-12-2014 18:30 - [garden]   Humidity:23.08,          Temperature:24.40;
+30-12-2014 18:30 - [server_room]   Humidity:41.37,          Temperature:17.80;
+30-12-2014 18:30 - [garden]   Humidity:23.08,          Temperature:24.40;
+30-12-2014 18:31 - [server_room]   Humidity:40.88,          Temperature:18.07;
+30-12-2014 18:31 - [garden]   Humidity:23.08,          Temperature:24.40;
+30-12-2014 18:32 - [server_room]   Humidity:40.36,          Temperature:18.24;
+30-12-2014 18:32 - [garden]   Humidity:23.08,          Temperature:24.40;
+30-12-2014 18:33 - [server_room]   Humidity:40.38,          Temperature:18.39;
+30-12-2014 18:33 - [garden]   Humidity:23.08,          Temperature:24.40;
+30-12-2014 18:33 - [server_room]   Humidity:40.38,          Temperature:18.39;
+30-12-2014 18:33 - [garden]   Humidity:23.08,          Temperature:24.40;
+30-12-2014 18:34 - [server_room]   Humidity:40.38,          Temperature:18.39;
+30-12-2014 18:34 - [garden]   Humidity:23.08,          Temperature:24.36;
+30-12-2014 18:34 - [server_room]   Humidity:40.37,          Temperature:18.36;
+30-12-2014 18:34 - [garden]   Humidity:23.08,          Temperature:24.36;
+30-12-2014 18:35 - [server_room]   Humidity:40.37,          Temperature:18.24;
+30-12-2014 18:35 - [garden]   Humidity:23.08,          Temperature:24.36;
+30-12-2014 18:35 - [server_room]   Humidity:40.36,          Temperature:18.32;
+30-12-2014 18:35 - [garden]   Humidity:23.08,          Temperature:24.40;
+30-12-2014 18:36 - [server_room]   Humidity:40.38,          Temperature:18.43;
+30-12-2014 18:36 - [garden]   Humidity:23.08,          Temperature:24.36;
+30-12-2014 18:36 - [server_room]   Humidity:40.38,          Temperature:18.39;
+30-12-2014 18:36 - [garden]   Humidity:23.08,          Temperature:24.36;
+30-12-2014 18:37 - [server_room]   Humidity:39.86,          Temperature:18.48;
+30-12-2014 18:37 - [garden]   Humidity:23.08,          Temperature:24.32;
+30-12-2014 18:37 - [server_room]   Humidity:39.86,          Temperature:18.48;
+30-12-2014 18:37 - [garden]   Humidity:23.08,          Temperature:24.32;
+30-12-2014 18:38 - [server_room]   Humidity:40.37,          Temperature:18.28;
+30-12-2014 18:38 - [garden]   Humidity:23.07,          Temperature:24.28;
+30-12-2014 18:39 - [server_room]   Humidity:40.36,          Temperature:18.24;
+30-12-2014 18:39 - [garden]   Humidity:23.07,          Temperature:24.28;
+30-12-2014 18:40 - [server_room]   Humidity:40.35,          Temperature:18.20;
+30-12-2014 18:40 - [garden]   Humidity:23.07,          Temperature:24.28;
+30-12-2014 18:40 - [server_room]   Humidity:40.34,          Temperature:18.07;
+30-12-2014 18:40 - [garden]   Humidity:23.07,          Temperature:24.28;
+30-12-2014 18:41 - [server_room]   Humidity:40.84,          Temperature:17.88;
+30-12-2014 18:41 - [garden]   Humidity:23.07,          Temperature:24.24;
+30-12-2014 18:41 - [server_room]   Humidity:41.38,          Temperature:17.84;
+30-12-2014 18:41 - [garden]   Humidity:23.07,          Temperature:24.24;
+30-12-2014 18:42 - [server_room]   Humidity:41.38,          Temperature:17.88;
+30-12-2014 18:42 - [garden]   Humidity:23.07,          Temperature:24.28;
+30-12-2014 18:42 - [server_room]   Humidity:41.38,          Temperature:17.92;
+30-12-2014 18:42 - [garden]   Humidity:23.07,          Temperature:24.24;
+30-12-2014 18:43 - [server_room]   Humidity:40.86,          Temperature:18.00;
+30-12-2014 18:43 - [garden]   Humidity:23.07,          Temperature:24.20;
+30-12-2014 18:43 - [server_room]   Humidity:40.87,          Temperature:18.00;
+30-12-2014 18:43 - [garden]   Humidity:23.07,          Temperature:24.20;
+30-12-2014 18:44 - [server_room]   Humidity:40.84,          Temperature:17.84;
+30-12-2014 18:44 - [garden]   Humidity:23.07,          Temperature:24.16;
+30-12-2014 18:44 - [server_room]   Humidity:40.84,          Temperature:17.92;
+30-12-2014 18:44 - [garden]   Humidity:23.07,          Temperature:24.20;
+30-12-2014 18:45 - [server_room]   Humidity:41.36,          Temperature:17.68;
+30-12-2014 18:45 - [garden]   Humidity:23.07,          Temperature:24.24;
+30-12-2014 18:46 - [server_room]   Humidity:41.37,          Temperature:17.84;
+30-12-2014 18:46 - [garden]   Humidity:23.07,          Temperature:24.24;
+30-12-2014 18:47 - [server_room]   Humidity:41.37,          Temperature:17.75;
+30-12-2014 18:47 - [garden]   Humidity:23.06,          Temperature:24.16;
+30-12-2014 18:47 - [server_room]   Humidity:41.36,          Temperature:17.84;
+30-12-2014 18:47 - [garden]   Humidity:23.07,          Temperature:24.16;
+30-12-2014 18:48 - [server_room]   Humidity:41.38,          Temperature:17.96;
+30-12-2014 18:48 - [garden]   Humidity:23.06,          Temperature:24.16;
+30-12-2014 18:48 - [server_room]   Humidity:41.39,          Temperature:17.92;
+30-12-2014 18:48 - [garden]   Humidity:23.06,          Temperature:24.16;
+30-12-2014 18:49 - [server_room]   Humidity:41.37,          Temperature:17.88;
+30-12-2014 18:49 - [garden]   Humidity:23.06,          Temperature:24.16;
+30-12-2014 18:49 - [server_room]   Humidity:41.38,          Temperature:17.92;
+30-12-2014 18:49 - [garden]   Humidity:23.06,          Temperature:24.16;
+30-12-2014 18:50 - [server_room]   Humidity:41.38,          Temperature:17.92;
+30-12-2014 18:50 - [garden]   Humidity:23.06,          Temperature:24.16;
+30-12-2014 18:50 - [server_room]   Humidity:41.38,          Temperature:17.92;
+30-12-2014 18:50 - [garden]   Humidity:23.06,          Temperature:24.16;
+30-12-2014 18:51 - [server_room]   Humidity:41.37,          Temperature:17.84;
+30-12-2014 18:51 - [garden]   Humidity:23.06,          Temperature:24.12;
+30-12-2014 18:51 - [server_room]   Humidity:41.37,          Temperature:17.84;
+30-12-2014 18:51 - [garden]   Humidity:23.06,          Temperature:24.12;
+30-12-2014 18:52 - [server_room]   Humidity:41.37,          Temperature:17.75;
+30-12-2014 18:52 - [garden]   Humidity:23.06,          Temperature:24.16;
+30-12-2014 18:53 - [server_room]   Humidity:41.37,          Temperature:17.72;
+30-12-2014 18:53 - [garden]   Humidity:23.06,          Temperature:24.12;
+30-12-2014 18:54 - [server_room]   Humidity:41.37,          Temperature:17.75;
+30-12-2014 18:54 - [garden]   Humidity:23.06,          Temperature:24.08;
+30-12-2014 18:54 - [server_room]   Humidity:41.35,          Temperature:17.68;
+30-12-2014 18:54 - [garden]   Humidity:23.06,          Temperature:24.08;
+30-12-2014 18:55 - [server_room]   Humidity:41.34,          Temperature:17.56;
+30-12-2014 18:55 - [garden]   Humidity:23.06,          Temperature:24.12;
+30-12-2014 18:55 - [server_room]   Humidity:41.87,          Temperature:17.60;
+30-12-2014 18:55 - [garden]   Humidity:23.06,          Temperature:24.12;
+30-12-2014 18:56 - [server_room]   Humidity:41.86,          Temperature:17.48;
+30-12-2014 18:56 - [garden]   Humidity:23.06,          Temperature:24.16;
+30-12-2014 18:56 - [server_room]   Humidity:41.85,          Temperature:17.39;
+30-12-2014 18:56 - [garden]   Humidity:23.06,          Temperature:24.12;
+30-12-2014 18:57 - [server_room]   Humidity:41.84,          Temperature:17.36;
+30-12-2014 18:57 - [garden]   Humidity:23.06,          Temperature:24.08;
+30-12-2014 18:57 - [server_room]   Humidity:41.84,          Temperature:17.36;
+30-12-2014 18:57 - [garden]   Humidity:23.06,          Temperature:24.08;
+30-12-2014 18:58 - [server_room]   Humidity:42.37,          Temperature:17.36;
+30-12-2014 18:58 - [garden]   Humidity:23.06,          Temperature:24.08;
+30-12-2014 18:58 - [server_room]   Humidity:42.37,          Temperature:17.36;
+30-12-2014 18:58 - [garden]   Humidity:23.06,          Temperature:24.08;
+30-12-2014 18:59 - [server_room]   Humidity:41.86,          Temperature:17.52;
+30-12-2014 18:59 - [garden]   Humidity:23.06,          Temperature:24.12;
+30-12-2014 19:00 - [server_room]   Humidity:41.87,          Temperature:17.52;
+30-12-2014 19:00 - [garden]   Humidity:23.06,          Temperature:24.08;
+30-12-2014 19:01 - [server_room]   Humidity:41.35,          Temperature:17.68;
+30-12-2014 19:01 - [garden]   Humidity:23.06,          Temperature:24.08;
+30-12-2014 19:01 - [server_room]   Humidity:41.35,          Temperature:17.68;
+30-12-2014 19:01 - [garden]   Humidity:23.06,          Temperature:24.04;
+30-12-2014 19:02 - [server_room]   Humidity:40.87,          Temperature:18.00;
+30-12-2014 19:02 - [garden]   Humidity:23.05,          Temperature:24.04;
+30-12-2014 19:02 - [server_room]   Humidity:40.87,          Temperature:18.07;
+30-12-2014 19:02 - [garden]   Humidity:23.06,          Temperature:24.04;
+30-12-2014 19:03 - [server_room]   Humidity:40.87,          Temperature:18.16;
+30-12-2014 19:03 - [garden]   Humidity:23.05,          Temperature:24.00;
+30-12-2014 19:03 - [server_room]   Humidity:40.35,          Temperature:18.16;
+30-12-2014 19:03 - [garden]   Humidity:23.05,          Temperature:24.00;
+30-12-2014 19:04 - [server_room]   Humidity:40.36,          Temperature:18.24;
+30-12-2014 19:04 - [garden]   Humidity:23.05,          Temperature:23.96;
+30-12-2014 19:04 - [server_room]   Humidity:40.35,          Temperature:18.20;
+30-12-2014 19:04 - [garden]   Humidity:23.05,          Temperature:23.96;
+30-12-2014 19:05 - [server_room]   Humidity:41.37,          Temperature:17.72;
+30-12-2014 19:05 - [garden]   Humidity:23.05,          Temperature:24.00;
+30-12-2014 19:05 - [server_room]   Humidity:41.36,          Temperature:17.72;
+30-12-2014 19:05 - [garden]   Humidity:23.05,          Temperature:24.08;
+30-12-2014 19:06 - [server_room]   Humidity:41.35,          Temperature:17.64;
+30-12-2014 19:06 - [garden]   Humidity:23.06,          Temperature:24.08;
+30-12-2014 19:07 - [server_room]   Humidity:41.35,          Temperature:17.60;
+30-12-2014 19:07 - [garden]   Humidity:23.06,          Temperature:24.04;
+30-12-2014 19:08 - [server_room]   Humidity:41.37,          Temperature:17.72;
+30-12-2014 19:08 - [garden]   Humidity:23.06,          Temperature:24.00;
+30-12-2014 19:08 - [server_room]   Humidity:41.36,          Temperature:17.72;
+30-12-2014 19:08 - [garden]   Humidity:23.05,          Temperature:24.00;
+30-12-2014 19:09 - [server_room]   Humidity:41.36,          Temperature:17.72;
+30-12-2014 19:09 - [garden]   Humidity:23.05,          Temperature:24.00;
+30-12-2014 19:09 - [server_room]   Humidity:41.36,          Temperature:17.75;
+30-12-2014 19:09 - [garden]   Humidity:23.05,          Temperature:24.00;
+30-12-2014 19:10 - [server_room]   Humidity:41.34,          Temperature:17.52;
+30-12-2014 19:10 - [garden]   Humidity:23.05,          Temperature:24.00;
+30-12-2014 19:10 - [server_room]   Humidity:41.85,          Temperature:17.43;
+30-12-2014 19:10 - [garden]   Humidity:23.05,          Temperature:24.00;
+30-12-2014 19:11 - [server_room]   Humidity:41.86,          Temperature:17.52;
+30-12-2014 19:11 - [garden]   Humidity:23.05,          Temperature:24.00;
+30-12-2014 19:11 - [server_room]   Humidity:41.87,          Temperature:17.60;
+30-12-2014 19:11 - [garden]   Humidity:23.05,          Temperature:23.96;
+30-12-2014 19:12 - [server_room]   Humidity:41.86,          Temperature:17.43;
+30-12-2014 19:12 - [garden]   Humidity:23.05,          Temperature:23.96;
+30-12-2014 19:12 - [server_room]   Humidity:41.85,          Temperature:17.43;
+30-12-2014 19:12 - [garden]   Humidity:23.05,          Temperature:23.92;
+30-12-2014 19:14 - [server_room]   Humidity:42.37,          Temperature:17.39;
+30-12-2014 19:14 - [garden]   Humidity:23.05,          Temperature:23.92;
+30-12-2014 19:14 - [server_room]   Humidity:41.85,          Temperature:17.36;
+30-12-2014 19:14 - [garden]   Humidity:23.05,          Temperature:23.92;
+30-12-2014 19:15 - [server_room]   Humidity:42.37,          Temperature:17.36;
+30-12-2014 19:15 - [garden]   Humidity:23.05,          Temperature:23.96;
+30-12-2014 19:15 - [server_room]   Humidity:42.37,          Temperature:17.32;
+30-12-2014 19:15 - [garden]   Humidity:23.05,          Temperature:23.96;
+30-12-2014 19:16 - [server_room]   Humidity:42.37,          Temperature:17.28;
+30-12-2014 19:16 - [garden]   Humidity:23.05,          Temperature:23.92;
+30-12-2014 19:16 - [server_room]   Humidity:42.36,          Temperature:17.28;
+30-12-2014 19:16 - [garden]   Humidity:23.05,          Temperature:23.92;
+30-12-2014 19:17 - [server_room]   Humidity:42.35,          Temperature:17.24;
+30-12-2014 19:17 - [garden]   Humidity:23.05,          Temperature:23.88;
+30-12-2014 19:17 - [server_room]   Humidity:42.35,          Temperature:17.20;
+30-12-2014 19:17 - [garden]   Humidity:23.05,          Temperature:23.92;
+30-12-2014 19:18 - [server_room]   Humidity:42.34,          Temperature:17.12;
+30-12-2014 19:18 - [garden]   Humidity:23.05,          Temperature:23.92;
+30-12-2014 19:18 - [server_room]   Humidity:42.34,          Temperature:17.12;
+30-12-2014 19:18 - [garden]   Humidity:23.05,          Temperature:23.92;
+30-12-2014 19:19 - [server_room]   Humidity:42.85,          Temperature:16.96;
+30-12-2014 19:19 - [garden]   Humidity:23.05,          Temperature:23.96;
+30-12-2014 19:19 - [server_room]   Humidity:42.85,          Temperature:16.96;
+30-12-2014 19:19 - [garden]   Humidity:23.05,          Temperature:23.92;
+30-12-2014 19:21 - [server_room]   Humidity:42.85,          Temperature:16.96;
+30-12-2014 19:21 - [garden]   Humidity:23.05,          Temperature:23.92;
+30-12-2014 19:21 - [server_room]   Humidity:42.84,          Temperature:16.88;
+30-12-2014 19:21 - [garden]   Humidity:23.05,          Temperature:23.92;
+30-12-2014 19:22 - [server_room]   Humidity:42.84,          Temperature:16.80;
+30-12-2014 19:22 - [garden]   Humidity:23.05,          Temperature:23.88;
+30-12-2014 19:22 - [server_room]   Humidity:42.83,          Temperature:16.88;
+30-12-2014 19:22 - [garden]   Humidity:23.05,          Temperature:23.88;
+30-12-2014 19:23 - [server_room]   Humidity:42.84,          Temperature:16.88;
+30-12-2014 19:23 - [garden]   Humidity:23.05,          Temperature:23.88;
+30-12-2014 19:23 - [server_room]   Humidity:42.84,          Temperature:16.92;
+30-12-2014 19:23 - [garden]   Humidity:23.05,          Temperature:23.92;
+30-12-2014 19:24 - [server_room]   Humidity:42.34,          Temperature:17.12;
+30-12-2014 19:24 - [garden]   Humidity:23.04,          Temperature:23.88;
+30-12-2014 19:24 - [server_room]   Humidity:42.34,          Temperature:17.12;
+30-12-2014 19:24 - [garden]   Humidity:23.04,          Temperature:23.88;
+30-12-2014 19:25 - [server_room]   Humidity:42.35,          Temperature:17.20;
+30-12-2014 19:25 - [garden]   Humidity:23.04,          Temperature:23.84;
+30-12-2014 19:25 - [server_room]   Humidity:42.35,          Temperature:17.24;
+30-12-2014 19:25 - [garden]   Humidity:23.04,          Temperature:23.84;
+30-12-2014 19:26 - [server_room]   Humidity:42.35,          Temperature:17.20;
+30-12-2014 19:26 - [garden]   Humidity:23.05,          Temperature:23.88;
+30-12-2014 19:26 - [server_room]   Humidity:42.35,          Temperature:17.20;
+30-12-2014 19:26 - [garden]   Humidity:23.05,          Temperature:23.88;
+30-12-2014 19:28 - [server_room]   Humidity:41.83,          Temperature:17.20;
+30-12-2014 19:28 - [garden]   Humidity:23.05,          Temperature:23.88;
+30-12-2014 19:28 - [server_room]   Humidity:42.35,          Temperature:17.12;
+30-12-2014 19:28 - [garden]   Humidity:23.05,          Temperature:23.88;
+30-12-2014 19:29 - [server_room]   Humidity:42.34,          Temperature:17.12;
+30-12-2014 19:29 - [garden]   Humidity:23.05,          Temperature:23.88;
+30-12-2014 19:29 - [server_room]   Humidity:42.34,          Temperature:17.12;
+30-12-2014 19:29 - [garden]   Humidity:23.05,          Temperature:23.88;
+30-12-2014 19:30 - [server_room]   Humidity:42.34,          Temperature:17.04;
+30-12-2014 19:30 - [garden]   Humidity:23.04,          Temperature:23.84;
+30-12-2014 19:30 - [server_room]   Humidity:42.33,          Temperature:17.04;
+30-12-2014 19:30 - [garden]   Humidity:23.04,          Temperature:23.84;
+30-12-2014 19:31 - [server_room]   Humidity:42.33,          Temperature:17.04;
+30-12-2014 19:31 - [garden]   Humidity:23.04,          Temperature:23.84;
+30-12-2014 19:31 - [server_room]   Humidity:42.33,          Temperature:17.00;
+30-12-2014 19:31 - [garden]   Humidity:23.04,          Temperature:23.84;
+30-12-2014 19:32 - [server_room]   Humidity:42.33,          Temperature:17.04;
+30-12-2014 19:32 - [garden]   Humidity:23.04,          Temperature:23.84;
+30-12-2014 19:32 - [server_room]   Humidity:42.33,          Temperature:17.04;
+30-12-2014 19:32 - [garden]   Humidity:23.04,          Temperature:23.84;
+30-12-2014 19:33 - [server_room]   Humidity:42.34,          Temperature:17.12;
+30-12-2014 19:33 - [garden]   Humidity:23.05,          Temperature:23.88;
+30-12-2014 19:34 - [server_room]   Humidity:42.35,          Temperature:17.16;
+30-12-2014 19:34 - [garden]   Humidity:23.05,          Temperature:23.92;
+30-12-2014 19:35 - [server_room]   Humidity:41.84,          Temperature:17.32;
+30-12-2014 19:35 - [garden]   Humidity:23.05,          Temperature:23.92;
+30-12-2014 19:35 - [server_room]   Humidity:41.84,          Temperature:17.32;
+30-12-2014 19:35 - [garden]   Humidity:23.05,          Temperature:23.92;
+30-12-2014 19:36 - [server_room]   Humidity:41.85,          Temperature:17.39;
+30-12-2014 19:36 - [garden]   Humidity:23.05,          Temperature:23.92;
+30-12-2014 19:36 - [server_room]   Humidity:41.85,          Temperature:17.48;
+30-12-2014 19:36 - [garden]   Humidity:23.05,          Temperature:23.92;
+30-12-2014 19:37 - [server_room]   Humidity:41.34,          Temperature:17.56;
+30-12-2014 19:37 - [garden]   Humidity:23.05,          Temperature:24.00;
+30-12-2014 19:37 - [server_room]   Humidity:41.34,          Temperature:17.56;
+30-12-2014 19:37 - [garden]   Humidity:23.05,          Temperature:24.00;
+30-12-2014 19:38 - [server_room]   Humidity:41.35,          Temperature:17.60;
+30-12-2014 19:38 - [garden]   Humidity:23.05,          Temperature:24.00;
+30-12-2014 19:38 - [server_room]   Humidity:41.35,          Temperature:17.56;
+30-12-2014 19:38 - [garden]   Humidity:23.05,          Temperature:24.00;
+30-12-2014 19:39 - [server_room]   Humidity:41.34,          Temperature:17.56;
+30-12-2014 19:39 - [garden]   Humidity:23.05,          Temperature:24.00;
+30-12-2014 19:39 - [server_room]   Humidity:41.34,          Temperature:17.52;
+30-12-2014 19:39 - [garden]   Humidity:23.05,          Temperature:23.96;
+30-12-2014 19:40 - [server_room]   Humidity:41.35,          Temperature:17.60;
+30-12-2014 19:40 - [garden]   Humidity:23.05,          Temperature:24.00;
+30-12-2014 19:41 - [server_room]   Humidity:41.35,          Temperature:17.60;
+30-12-2014 19:41 - [garden]   Humidity:23.05,          Temperature:24.00;
+30-12-2014 19:42 - [server_room]   Humidity:41.34,          Temperature:17.60;
+30-12-2014 19:42 - [garden]   Humidity:23.05,          Temperature:24.00;
+30-12-2014 19:42 - [server_room]   Humidity:41.35,          Temperature:17.56;
+30-12-2014 19:42 - [garden]   Humidity:23.05,          Temperature:24.00;
+30-12-2014 19:43 - [server_room]   Humidity:40.83,          Temperature:17.68;
+30-12-2014 19:43 - [garden]   Humidity:23.06,          Temperature:24.08;
+30-12-2014 19:43 - [server_room]   Humidity:41.35,          Temperature:17.68;
+30-12-2014 19:43 - [garden]   Humidity:23.06,          Temperature:24.08;
+30-12-2014 19:44 - [server_room]   Humidity:41.36,          Temperature:17.72;
+30-12-2014 19:44 - [garden]   Humidity:23.06,          Temperature:24.08;
+30-12-2014 19:44 - [server_room]   Humidity:41.36,          Temperature:17.75;
+30-12-2014 19:44 - [garden]   Humidity:23.06,          Temperature:24.12;
+30-12-2014 19:45 - [server_room]   Humidity:41.38,          Temperature:17.84;
+30-12-2014 19:45 - [garden]   Humidity:23.06,          Temperature:24.16;
+30-12-2014 19:45 - [server_room]   Humidity:40.85,          Temperature:17.88;
+30-12-2014 19:45 - [garden]   Humidity:23.06,          Temperature:24.08;
+30-12-2014 19:46 - [server_room]   Humidity:40.85,          Temperature:17.92;
+30-12-2014 19:46 - [garden]   Humidity:23.06,          Temperature:24.16;
+30-12-2014 19:46 - [server_room]   Humidity:40.86,          Temperature:17.92;
+30-12-2014 19:46 - [garden]   Humidity:23.06,          Temperature:24.16;
+30-12-2014 19:47 - [server_room]   Humidity:40.34,          Temperature:18.12;
+30-12-2014 19:47 - [garden]   Humidity:23.07,          Temperature:24.16;
+30-12-2014 19:48 - [server_room]   Humidity:40.34,          Temperature:18.07;
+30-12-2014 19:48 - [garden]   Humidity:23.07,          Temperature:24.20;
+30-12-2014 19:49 - [server_room]   Humidity:40.34,          Temperature:18.04;
+30-12-2014 19:49 - [garden]   Humidity:23.07,          Temperature:24.24;
+30-12-2014 19:49 - [server_room]   Humidity:40.34,          Temperature:18.07;
+30-12-2014 19:49 - [garden]   Humidity:23.07,          Temperature:24.24;
+30-12-2014 19:50 - [server_room]   Humidity:40.35,          Temperature:18.16;
+30-12-2014 19:50 - [garden]   Humidity:23.07,          Temperature:24.20;
+30-12-2014 19:50 - [server_room]   Humidity:40.35,          Temperature:18.24;
+30-12-2014 19:50 - [garden]   Humidity:23.07,          Temperature:24.20;
+30-12-2014 19:51 - [server_room]   Humidity:40.38,          Temperature:18.43;
+30-12-2014 19:51 - [garden]   Humidity:23.07,          Temperature:24.28;
+30-12-2014 19:51 - [server_room]   Humidity:40.38,          Temperature:18.48;
+30-12-2014 19:51 - [garden]   Humidity:23.07,          Temperature:24.28;
+30-12-2014 19:52 - [server_room]   Humidity:40.38,          Temperature:18.39;
+30-12-2014 19:52 - [garden]   Humidity:22.49,          Temperature:24.28;
+30-12-2014 19:52 - [server_room]   Humidity:40.38,          Temperature:18.43;
+30-12-2014 19:52 - [garden]   Humidity:23.07,          Temperature:24.24;
+30-12-2014 19:53 - [server_room]   Humidity:39.86,          Temperature:18.52;
+30-12-2014 19:53 - [garden]   Humidity:23.07,          Temperature:24.24;
+30-12-2014 19:53 - [server_room]   Humidity:39.86,          Temperature:18.52;
+30-12-2014 19:53 - [garden]   Humidity:23.07,          Temperature:24.24;
+30-12-2014 19:54 - [server_room]   Humidity:39.86,          Temperature:18.52;
+30-12-2014 19:54 - [garden]   Humidity:23.07,          Temperature:24.32;
+30-12-2014 19:55 - [server_room]   Humidity:39.86,          Temperature:18.52;
+30-12-2014 19:55 - [garden]   Humidity:22.49,          Temperature:24.32;
+30-12-2014 19:56 - [server_room]   Humidity:39.86,          Temperature:18.56;
+30-12-2014 19:56 - [garden]   Humidity:23.07,          Temperature:24.32;
+30-12-2014 19:56 - [server_room]   Humidity:39.86,          Temperature:18.56;
+30-12-2014 19:56 - [garden]   Humidity:23.07,          Temperature:24.32;
+30-12-2014 19:57 - [server_room]   Humidity:39.34,          Temperature:18.56;
+30-12-2014 19:57 - [garden]   Humidity:22.49,          Temperature:24.32;
+30-12-2014 19:57 - [server_room]   Humidity:39.87,          Temperature:18.56;
+30-12-2014 19:57 - [garden]   Humidity:23.08,          Temperature:24.32;
+30-12-2014 19:58 - [server_room]   Humidity:39.35,          Temperature:18.64;
+30-12-2014 19:58 - [garden]   Humidity:22.49,          Temperature:24.40;
+30-12-2014 19:58 - [server_room]   Humidity:39.34,          Temperature:18.60;
+30-12-2014 19:58 - [garden]   Humidity:22.50,          Temperature:24.40;
+30-12-2014 19:59 - [server_room]   Humidity:39.87,          Temperature:18.60;
+30-12-2014 19:59 - [garden]   Humidity:22.50,          Temperature:24.44;
+30-12-2014 19:59 - [server_room]   Humidity:39.86,          Temperature:18.56;
+30-12-2014 19:59 - [garden]   Humidity:22.50,          Temperature:24.40;
+30-12-2014 20:00 - [server_room]   Humidity:39.35,          Temperature:18.72;
+30-12-2014 20:00 - [garden]   Humidity:22.50,          Temperature:24.44;
+30-12-2014 20:00 - [server_room]   Humidity:39.35,          Temperature:18.72;
+30-12-2014 20:00 - [garden]   Humidity:22.50,          Temperature:24.48;
+30-12-2014 20:01 - [server_room]   Humidity:39.35,          Temperature:18.68;
+30-12-2014 20:01 - [garden]   Humidity:22.50,          Temperature:24.48;
+30-12-2014 20:02 - [server_room]   Humidity:39.36,          Temperature:18.75;
+30-12-2014 20:02 - [garden]   Humidity:22.50,          Temperature:24.48;
+30-12-2014 20:03 - [server_room]   Humidity:39.36,          Temperature:18.92;
+30-12-2014 20:03 - [garden]   Humidity:22.50,          Temperature:24.52;
+30-12-2014 20:03 - [server_room]   Humidity:39.37,          Temperature:18.92;
+30-12-2014 20:03 - [garden]   Humidity:22.50,          Temperature:24.56;
+30-12-2014 20:04 - [server_room]   Humidity:39.37,          Temperature:18.92;
+30-12-2014 20:04 - [garden]   Humidity:21.92,          Temperature:24.56;
+30-12-2014 20:04 - [server_room]   Humidity:39.37,          Temperature:18.96;
+30-12-2014 20:04 - [garden]   Humidity:21.92,          Temperature:24.56;
+30-12-2014 20:05 - [server_room]   Humidity:39.38,          Temperature:19.04;
+30-12-2014 20:05 - [garden]   Humidity:22.51,          Temperature:24.60;
+30-12-2014 20:05 - [server_room]   Humidity:39.38,          Temperature:19.04;
+30-12-2014 20:05 - [garden]   Humidity:22.51,          Temperature:24.60;
+30-12-2014 20:06 - [server_room]   Humidity:39.38,          Temperature:19.00;
+30-12-2014 20:06 - [garden]   Humidity:22.50,          Temperature:24.52;
+30-12-2014 20:06 - [server_room]   Humidity:39.38,          Temperature:19.00;
+30-12-2014 20:06 - [garden]   Humidity:22.50,          Temperature:24.52;
+30-12-2014 20:07 - [server_room]   Humidity:39.38,          Temperature:19.04;
+30-12-2014 20:07 - [garden]   Humidity:22.51,          Temperature:24.56;
+30-12-2014 20:07 - [server_room]   Humidity:39.39,          Temperature:19.07;
+30-12-2014 20:07 - [garden]   Humidity:22.51,          Temperature:24.56;
+30-12-2014 20:08 - [server_room]   Humidity:39.39,          Temperature:19.16;
+30-12-2014 20:08 - [garden]   Humidity:22.50,          Temperature:24.56;
+30-12-2014 20:09 - [server_room]   Humidity:39.39,          Temperature:19.12;
+30-12-2014 20:09 - [garden]   Humidity:22.50,          Temperature:24.56;
+30-12-2014 20:10 - [server_room]   Humidity:39.38,          Temperature:18.96;
+30-12-2014 20:10 - [garden]   Humidity:21.92,          Temperature:24.64;
+30-12-2014 20:10 - [server_room]   Humidity:39.38,          Temperature:18.88;
+30-12-2014 20:10 - [garden]   Humidity:21.92,          Temperature:24.60;
+30-12-2014 20:11 - [server_room]   Humidity:39.35,          Temperature:18.72;
+30-12-2014 20:11 - [garden]   Humidity:21.92,          Temperature:24.64;
+30-12-2014 20:11 - [server_room]   Humidity:39.88,          Temperature:18.72;
+30-12-2014 20:11 - [garden]   Humidity:21.92,          Temperature:24.64;
+30-12-2014 20:12 - [server_room]   Humidity:39.86,          Temperature:18.52;
+30-12-2014 20:12 - [garden]   Humidity:21.93,          Temperature:24.64;
+30-12-2014 20:12 - [server_room]   Humidity:40.39,          Temperature:18.48;
+30-12-2014 20:12 - [garden]   Humidity:21.93,          Temperature:24.64;
+30-12-2014 20:13 - [server_room]   Humidity:40.37,          Temperature:18.36;
+30-12-2014 20:13 - [garden]   Humidity:21.92,          Temperature:24.64;
+30-12-2014 20:13 - [server_room]   Humidity:40.37,          Temperature:18.36;
+30-12-2014 20:13 - [garden]   Humidity:21.92,          Temperature:24.64;
+30-12-2014 20:14 - [server_room]   Humidity:40.37,          Temperature:18.28;
+30-12-2014 20:14 - [garden]   Humidity:21.93,          Temperature:24.68;
+30-12-2014 20:14 - [server_room]   Humidity:40.36,          Temperature:18.24;
+30-12-2014 20:14 - [garden]   Humidity:21.93,          Temperature:24.68;
+30-12-2014 20:15 - [server_room]   Humidity:40.88,          Temperature:18.12;
+30-12-2014 20:15 - [garden]   Humidity:21.93,          Temperature:24.68;
+30-12-2014 20:16 - [server_room]   Humidity:40.88,          Temperature:18.12;
+30-12-2014 20:16 - [garden]   Humidity:21.93,          Temperature:24.72;
+30-12-2014 20:17 - [server_room]   Humidity:40.87,          Temperature:18.07;
+30-12-2014 20:17 - [garden]   Humidity:21.93,          Temperature:24.72;
+30-12-2014 20:17 - [server_room]   Humidity:40.87,          Temperature:18.07;
+30-12-2014 20:17 - [garden]   Humidity:21.93,          Temperature:24.76;
+30-12-2014 20:18 - [server_room]   Humidity:41.40,          Temperature:18.07;
+30-12-2014 20:18 - [garden]   Humidity:21.93,          Temperature:24.76;
+30-12-2014 20:18 - [server_room]   Humidity:41.40,          Temperature:18.07;
+30-12-2014 20:18 - [garden]   Humidity:21.93,          Temperature:24.72;
+30-12-2014 20:19 - [server_room]   Humidity:41.39,          Temperature:18.00;
+30-12-2014 20:19 - [garden]   Humidity:21.93,          Temperature:24.72;
+30-12-2014 20:19 - [server_room]   Humidity:41.39,          Temperature:18.00;
+30-12-2014 20:19 - [garden]   Humidity:21.93,          Temperature:24.76;
+30-12-2014 20:20 - [server_room]   Humidity:41.38,          Temperature:17.92;
+30-12-2014 20:20 - [garden]   Humidity:21.93,          Temperature:24.76;
+30-12-2014 20:20 - [server_room]   Humidity:41.38,          Temperature:17.88;
+30-12-2014 20:20 - [garden]   Humidity:21.93,          Temperature:24.76;
+30-12-2014 20:21 - [server_room]   Humidity:41.37,          Temperature:17.84;
+30-12-2014 20:21 - [garden]   Humidity:21.93,          Temperature:24.80;
+30-12-2014 20:21 - [server_room]   Humidity:41.37,          Temperature:17.80;
+30-12-2014 20:21 - [garden]   Humidity:21.93,          Temperature:24.80;
+30-12-2014 20:22 - [server_room]   Humidity:41.38,          Temperature:17.88;
+30-12-2014 20:22 - [garden]   Humidity:21.94,          Temperature:24.84;
+30-12-2014 20:23 - [server_room]   Humidity:41.38,          Temperature:17.88;
+30-12-2014 20:23 - [garden]   Humidity:21.94,          Temperature:24.80;
+30-12-2014 20:24 - [server_room]   Humidity:41.38,          Temperature:17.84;
+30-12-2014 20:24 - [garden]   Humidity:21.94,          Temperature:24.80;
+30-12-2014 20:24 - [server_room]   Humidity:41.38,          Temperature:17.88;
+30-12-2014 20:24 - [garden]   Humidity:21.94,          Temperature:24.80;
+30-12-2014 20:25 - [server_room]   Humidity:41.39,          Temperature:18.04;
+30-12-2014 20:25 - [garden]   Humidity:21.94,          Temperature:24.88;
+30-12-2014 20:25 - [server_room]   Humidity:41.40,          Temperature:18.07;
+30-12-2014 20:25 - [garden]   Humidity:21.94,          Temperature:24.88;
+30-12-2014 20:26 - [server_room]   Humidity:40.89,          Temperature:18.28;
+30-12-2014 20:26 - [garden]   Humidity:21.94,          Temperature:24.80;
+30-12-2014 20:26 - [server_room]   Humidity:40.89,          Temperature:18.32;
+30-12-2014 20:26 - [garden]   Humidity:21.94,          Temperature:24.80;
+30-12-2014 20:27 - [server_room]   Humidity:40.38,          Temperature:18.48;
+30-12-2014 20:27 - [garden]   Humidity:21.94,          Temperature:24.88;
+30-12-2014 20:27 - [server_room]   Humidity:40.38,          Temperature:18.48;
+30-12-2014 20:27 - [garden]   Humidity:21.94,          Temperature:24.88;
+30-12-2014 20:28 - [server_room]   Humidity:40.40,          Temperature:18.56;
+30-12-2014 20:28 - [garden]   Humidity:21.94,          Temperature:24.88;
+30-12-2014 20:28 - [server_room]   Humidity:40.40,          Temperature:18.64;
+30-12-2014 20:28 - [garden]   Humidity:21.94,          Temperature:24.88;
+30-12-2014 20:29 - [server_room]   Humidity:40.41,          Temperature:18.68;
+30-12-2014 20:29 - [garden]   Humidity:21.94,          Temperature:24.88;
+30-12-2014 20:30 - [server_room]   Humidity:39.88,          Temperature:18.72;
+30-12-2014 20:30 - [garden]   Humidity:21.94,          Temperature:24.92;
+30-12-2014 20:31 - [server_room]   Humidity:39.89,          Temperature:18.80;
+30-12-2014 20:31 - [garden]   Humidity:21.94,          Temperature:24.88;
+30-12-2014 20:31 - [server_room]   Humidity:39.89,          Temperature:18.84;
+30-12-2014 20:31 - [garden]   Humidity:21.94,          Temperature:24.92;
+30-12-2014 20:32 - [server_room]   Humidity:39.36,          Temperature:18.88;
+30-12-2014 20:32 - [garden]   Humidity:21.94,          Temperature:24.92;
+30-12-2014 20:32 - [server_room]   Humidity:39.37,          Temperature:18.92;
+30-12-2014 20:32 - [garden]   Humidity:21.94,          Temperature:24.92;
+30-12-2014 20:33 - [server_room]   Humidity:39.37,          Temperature:18.92;
+30-12-2014 20:33 - [garden]   Humidity:21.94,          Temperature:24.92;
+30-12-2014 20:33 - [server_room]   Humidity:39.37,          Temperature:18.92;
+30-12-2014 20:33 - [garden]   Humidity:21.94,          Temperature:24.92;
+30-12-2014 20:34 - [server_room]   Humidity:39.36,          Temperature:18.84;
+30-12-2014 20:34 - [garden]   Humidity:21.94,          Temperature:24.96;
+30-12-2014 20:34 - [server_room]   Humidity:39.36,          Temperature:18.92;
+30-12-2014 20:34 - [garden]   Humidity:21.94,          Temperature:24.96;
+30-12-2014 20:35 - [server_room]   Humidity:39.38,          Temperature:19.07;
+30-12-2014 20:35 - [garden]   Humidity:21.94,          Temperature:24.96;
+30-12-2014 20:35 - [server_room]   Humidity:39.38,          Temperature:19.07;
+30-12-2014 20:35 - [garden]   Humidity:21.94,          Temperature:24.96;
+30-12-2014 20:36 - [server_room]   Humidity:39.40,          Temperature:19.20;
+30-12-2014 20:36 - [garden]   Humidity:21.95,          Temperature:25.04;
+30-12-2014 20:37 - [server_room]   Humidity:39.40,          Temperature:19.24;
+30-12-2014 20:37 - [garden]   Humidity:21.95,          Temperature:25.04;
+30-12-2014 20:38 - [server_room]   Humidity:39.40,          Temperature:19.20;
+30-12-2014 20:38 - [garden]   Humidity:21.95,          Temperature:25.04;
+30-12-2014 20:38 - [server_room]   Humidity:39.40,          Temperature:19.16;
+30-12-2014 20:38 - [garden]   Humidity:21.95,          Temperature:25.04;
+30-12-2014 20:39 - [server_room]   Humidity:39.40,          Temperature:19.20;
+30-12-2014 20:39 - [garden]   Humidity:21.95,          Temperature:25.04;
+30-12-2014 20:39 - [server_room]   Humidity:39.40,          Temperature:19.24;
+30-12-2014 20:39 - [garden]   Humidity:21.95,          Temperature:25.08;
+30-12-2014 20:40 - [server_room]   Humidity:38.87,          Temperature:19.28;
+30-12-2014 20:40 - [garden]   Humidity:21.95,          Temperature:25.08;
+30-12-2014 20:40 - [server_room]   Humidity:39.41,          Temperature:19.28;
+30-12-2014 20:40 - [garden]   Humidity:21.95,          Temperature:25.08;
+30-12-2014 20:41 - [server_room]   Humidity:38.87,          Temperature:19.28;
+30-12-2014 20:41 - [garden]   Humidity:21.95,          Temperature:25.08;
+30-12-2014 20:41 - [server_room]   Humidity:38.87,          Temperature:19.24;
+30-12-2014 20:41 - [garden]   Humidity:21.95,          Temperature:25.12;
+30-12-2014 20:42 - [server_room]   Humidity:38.87,          Temperature:19.28;
+30-12-2014 20:42 - [garden]   Humidity:21.95,          Temperature:25.12;
+30-12-2014 20:42 - [server_room]   Humidity:38.87,          Temperature:19.28;
+30-12-2014 20:42 - [garden]   Humidity:21.96,          Temperature:25.16;
+30-12-2014 20:43 - [server_room]   Humidity:38.87,          Temperature:19.36;
+30-12-2014 20:43 - [garden]   Humidity:21.96,          Temperature:25.16;
+30-12-2014 20:44 - [server_room]   Humidity:38.88,          Temperature:19.36;
+30-12-2014 20:44 - [garden]   Humidity:21.96,          Temperature:25.16;
+30-12-2014 20:45 - [server_room]   Humidity:39.41,          Temperature:19.24;
+30-12-2014 20:45 - [garden]   Humidity:21.96,          Temperature:25.20;
+30-12-2014 20:45 - [server_room]   Humidity:39.40,          Temperature:19.28;
+30-12-2014 20:45 - [garden]   Humidity:21.96,          Temperature:25.20;
+30-12-2014 20:46 - [server_room]   Humidity:39.41,          Temperature:19.24;
+30-12-2014 20:46 - [garden]   Humidity:21.96,          Temperature:25.16;
+30-12-2014 20:46 - [server_room]   Humidity:39.41,          Temperature:19.28;
+30-12-2014 20:46 - [garden]   Humidity:21.96,          Temperature:25.20;
+30-12-2014 20:47 - [server_room]   Humidity:39.41,          Temperature:19.24;
+30-12-2014 20:47 - [garden]   Humidity:21.96,          Temperature:25.20;
+30-12-2014 20:47 - [server_room]   Humidity:39.41,          Temperature:19.28;
+30-12-2014 20:47 - [garden]   Humidity:21.96,          Temperature:25.24;
+30-12-2014 20:48 - [server_room]   Humidity:39.41,          Temperature:19.28;
+30-12-2014 20:48 - [garden]   Humidity:21.96,          Temperature:25.24;
+30-12-2014 20:48 - [server_room]   Humidity:38.87,          Temperature:19.28;
+30-12-2014 20:48 - [garden]   Humidity:21.96,          Temperature:25.28;
+30-12-2014 20:49 - [server_room]   Humidity:39.41,          Temperature:19.28;
+30-12-2014 20:49 - [garden]   Humidity:21.97,          Temperature:25.28;
+30-12-2014 20:49 - [server_room]   Humidity:39.41,          Temperature:19.28;
+30-12-2014 20:49 - [garden]   Humidity:21.96,          Temperature:25.28;
+30-12-2014 20:50 - [server_room]   Humidity:38.88,          Temperature:19.36;
+30-12-2014 20:50 - [garden]   Humidity:21.97,          Temperature:25.32;
+30-12-2014 20:51 - [server_room]   Humidity:38.88,          Temperature:19.36;
+30-12-2014 20:51 - [garden]   Humidity:21.97,          Temperature:25.32;
+30-12-2014 20:52 - [server_room]   Humidity:39.41,          Temperature:19.28;
+30-12-2014 20:52 - [garden]   Humidity:21.97,          Temperature:25.36;
+30-12-2014 20:52 - [server_room]   Humidity:39.41,          Temperature:19.28;
+30-12-2014 20:52 - [garden]   Humidity:21.97,          Temperature:25.36;
+30-12-2014 20:53 - [server_room]   Humidity:39.41,          Temperature:19.20;
+30-12-2014 20:53 - [garden]   Humidity:21.97,          Temperature:25.36;
+30-12-2014 20:53 - [server_room]   Humidity:39.40,          Temperature:19.24;
+30-12-2014 20:53 - [garden]   Humidity:21.97,          Temperature:25.40;
+30-12-2014 20:54 - [server_room]   Humidity:39.41,          Temperature:19.28;
+30-12-2014 20:54 - [garden]   Humidity:21.97,          Temperature:25.40;
+30-12-2014 20:54 - [server_room]   Humidity:39.41,          Temperature:19.28;
+30-12-2014 20:54 - [garden]   Humidity:21.97,          Temperature:25.44;
+30-12-2014 20:55 - [server_room]   Humidity:39.41,          Temperature:19.24;
+30-12-2014 20:55 - [garden]   Humidity:21.98,          Temperature:25.48;
+30-12-2014 20:55 - [server_room]   Humidity:39.41,          Temperature:19.28;
+30-12-2014 20:55 - [garden]   Humidity:21.98,          Temperature:25.48;
+30-12-2014 20:56 - [server_room]   Humidity:38.88,          Temperature:19.36;
+30-12-2014 20:56 - [garden]   Humidity:21.97,          Temperature:25.40;
+30-12-2014 20:56 - [server_room]   Humidity:38.88,          Temperature:19.32;
+30-12-2014 20:56 - [garden]   Humidity:21.97,          Temperature:25.40;
+30-12-2014 20:57 - [server_room]   Humidity:38.88,          Temperature:19.43;
+30-12-2014 20:57 - [garden]   Humidity:21.97,          Temperature:25.48;
+30-12-2014 20:58 - [server_room]   Humidity:38.89,          Temperature:19.43;
+30-12-2014 20:58 - [garden]   Humidity:21.98,          Temperature:25.44;
+30-12-2014 20:59 - [server_room]   Humidity:38.89,          Temperature:19.43;
+30-12-2014 20:59 - [garden]   Humidity:21.98,          Temperature:25.52;
+30-12-2014 20:59 - [server_room]   Humidity:38.89,          Temperature:19.43;
+30-12-2014 20:59 - [garden]   Humidity:21.98,          Temperature:25.52;
+30-12-2014 21:00 - [server_room]   Humidity:38.88,          Temperature:19.39;
+30-12-2014 21:00 - [garden]   Humidity:21.98,          Temperature:25.52;
+30-12-2014 21:00 - [server_room]   Humidity:38.88,          Temperature:19.36;
+30-12-2014 21:00 - [garden]   Humidity:21.98,          Temperature:25.52;
+30-12-2014 21:01 - [server_room]   Humidity:38.89,          Temperature:19.39;
+30-12-2014 21:01 - [garden]   Humidity:21.98,          Temperature:25.52;
+30-12-2014 21:01 - [server_room]   Humidity:38.89,          Temperature:19.43;
+30-12-2014 21:01 - [garden]   Humidity:21.98,          Temperature:25.52;
+30-12-2014 21:02 - [server_room]   Humidity:38.89,          Temperature:19.43;
+30-12-2014 21:02 - [garden]   Humidity:21.98,          Temperature:25.52;
+30-12-2014 21:02 - [server_room]   Humidity:38.89,          Temperature:19.43;
+30-12-2014 21:02 - [garden]   Humidity:21.98,          Temperature:25.52;
+30-12-2014 21:03 - [server_room]   Humidity:38.88,          Temperature:19.36;
+30-12-2014 21:03 - [garden]   Humidity:21.98,          Temperature:25.52;
+30-12-2014 21:03 - [server_room]   Humidity:38.88,          Temperature:19.43;
+30-12-2014 21:03 - [garden]   Humidity:21.98,          Temperature:25.52;
+30-12-2014 21:04 - [server_room]   Humidity:38.89,          Temperature:19.39;
+30-12-2014 21:04 - [garden]   Humidity:21.98,          Temperature:25.52;
+30-12-2014 21:05 - [server_room]   Humidity:38.88,          Temperature:19.36;
+30-12-2014 21:05 - [garden]   Humidity:21.98,          Temperature:25.52;
+30-12-2014 21:06 - [server_room]   Humidity:38.89,          Temperature:19.39;
+30-12-2014 21:06 - [garden]   Humidity:21.98,          Temperature:25.52;
+30-12-2014 21:06 - [server_room]   Humidity:38.88,          Temperature:19.39;
+30-12-2014 21:06 - [garden]   Humidity:21.98,          Temperature:25.52;
+30-12-2014 21:07 - [server_room]   Humidity:38.89,          Temperature:19.43;
+30-12-2014 21:07 - [garden]   Humidity:21.98,          Temperature:25.52;
+30-12-2014 21:07 - [server_room]   Humidity:38.89,          Temperature:19.43;
+30-12-2014 21:07 - [garden]   Humidity:21.98,          Temperature:25.52;
+30-12-2014 21:08 - [server_room]   Humidity:38.89,          Temperature:19.48;
+30-12-2014 21:08 - [garden]   Humidity:21.98,          Temperature:25.52;
+30-12-2014 21:08 - [server_room]   Humidity:38.89,          Temperature:19.48;
+30-12-2014 21:08 - [garden]   Humidity:21.98,          Temperature:25.52;
+30-12-2014 21:09 - [server_room]   Humidity:38.89,          Temperature:19.43;
+30-12-2014 21:09 - [garden]   Humidity:21.98,          Temperature:25.52;
+30-12-2014 21:09 - [server_room]   Humidity:38.89,          Temperature:19.48;
+30-12-2014 21:09 - [garden]   Humidity:21.98,          Temperature:25.52;
+30-12-2014 21:10 - [server_room]   Humidity:38.89,          Temperature:19.43;
+30-12-2014 21:10 - [garden]   Humidity:21.98,          Temperature:25.52;
+30-12-2014 21:10 - [server_room]   Humidity:38.89,          Temperature:19.43;
+30-12-2014 21:10 - [garden]   Humidity:21.98,          Temperature:25.52;
+30-12-2014 21:12 - [server_room]   Humidity:38.88,          Temperature:19.32;
+30-12-2014 21:12 - [garden]   Humidity:21.98,          Temperature:25.52;
+30-12-2014 21:12 - [server_room]   Humidity:39.41,          Temperature:19.28;
+30-12-2014 21:12 - [garden]   Humidity:21.98,          Temperature:25.52;
+30-12-2014 21:13 - [server_room]   Humidity:39.39,          Temperature:19.07;
+30-12-2014 21:13 - [garden]   Humidity:21.98,          Temperature:25.56;
+30-12-2014 21:13 - [server_room]   Humidity:39.91,          Temperature:19.00;
+30-12-2014 21:13 - [garden]   Humidity:21.98,          Temperature:25.52;
+30-12-2014 21:14 - [server_room]   Humidity:39.90,          Temperature:18.92;
+30-12-2014 21:14 - [garden]   Humidity:21.98,          Temperature:25.52;
+30-12-2014 21:14 - [server_room]   Humidity:39.90,          Temperature:18.92;
+30-12-2014 21:14 - [garden]   Humidity:21.98,          Temperature:25.52;
+30-12-2014 21:15 - [server_room]   Humidity:40.42,          Temperature:18.75;
+30-12-2014 21:15 - [garden]   Humidity:21.98,          Temperature:25.52;
+30-12-2014 21:15 - [server_room]   Humidity:40.42,          Temperature:18.72;
+30-12-2014 21:15 - [garden]   Humidity:21.98,          Temperature:25.52;
+30-12-2014 21:16 - [server_room]   Humidity:40.40,          Temperature:18.64;
+30-12-2014 21:16 - [garden]   Humidity:21.99,          Temperature:25.64;
+30-12-2014 21:16 - [server_room]   Humidity:40.40,          Temperature:18.60;
+30-12-2014 21:16 - [garden]   Humidity:21.99,          Temperature:25.64;
+30-12-2014 21:17 - [server_room]   Humidity:40.39,          Temperature:18.56;
+30-12-2014 21:17 - [garden]   Humidity:21.99,          Temperature:25.68;
+30-12-2014 21:17 - [server_room]   Humidity:40.39,          Temperature:18.56;
+30-12-2014 21:17 - [garden]   Humidity:21.99,          Temperature:25.64;
+30-12-2014 21:19 - [server_room]   Humidity:40.91,          Temperature:18.43;
+30-12-2014 21:19 - [garden]   Humidity:21.99,          Temperature:25.68;
+30-12-2014 21:19 - [server_room]   Humidity:40.91,          Temperature:18.39;
+30-12-2014 21:19 - [garden]   Humidity:21.99,          Temperature:25.64;
+30-12-2014 21:20 - [server_room]   Humidity:40.91,          Temperature:18.36;
+30-12-2014 21:20 - [garden]   Humidity:21.99,          Temperature:25.64;
+30-12-2014 21:20 - [server_room]   Humidity:40.91,          Temperature:18.36;
+30-12-2014 21:20 - [garden]   Humidity:21.99,          Temperature:25.60;
+30-12-2014 21:21 - [server_room]   Humidity:40.91,          Temperature:18.39;
+30-12-2014 21:21 - [garden]   Humidity:21.99,          Temperature:25.64;
+30-12-2014 21:21 - [server_room]   Humidity:40.91,          Temperature:18.39;
+30-12-2014 21:21 - [garden]   Humidity:21.99,          Temperature:25.68;
+30-12-2014 21:22 - [server_room]   Humidity:40.90,          Temperature:18.32;
+30-12-2014 21:22 - [garden]   Humidity:21.99,          Temperature:25.68;
+30-12-2014 21:22 - [server_room]   Humidity:40.90,          Temperature:18.32;
+30-12-2014 21:22 - [garden]   Humidity:21.99,          Temperature:25.68;
+30-12-2014 21:23 - [server_room]   Humidity:40.90,          Temperature:18.32;
+30-12-2014 21:23 - [garden]   Humidity:21.99,          Temperature:25.68;
+30-12-2014 21:23 - [server_room]   Humidity:40.90,          Temperature:18.36;
+30-12-2014 21:23 - [garden]   Humidity:21.99,          Temperature:25.72;
+30-12-2014 21:24 - [server_room]   Humidity:40.90,          Temperature:18.32;
+30-12-2014 21:24 - [garden]   Humidity:21.99,          Temperature:25.68;
+30-12-2014 21:25 - [server_room]   Humidity:41.42,          Temperature:18.28;
+30-12-2014 21:25 - [garden]   Humidity:21.99,          Temperature:25.72;
+30-12-2014 21:26 - [server_room]   Humidity:40.91,          Temperature:18.52;
+30-12-2014 21:26 - [garden]   Humidity:21.99,          Temperature:25.72;
+30-12-2014 21:26 - [server_room]   Humidity:40.92,          Temperature:18.48;
+30-12-2014 21:26 - [garden]   Humidity:21.99,          Temperature:25.72;
+30-12-2014 21:27 - [server_room]   Humidity:40.41,          Temperature:18.64;
+30-12-2014 21:27 - [garden]   Humidity:21.99,          Temperature:25.72;
+30-12-2014 21:27 - [server_room]   Humidity:40.41,          Temperature:18.72;
+30-12-2014 21:27 - [garden]   Humidity:21.99,          Temperature:25.72;
+30-12-2014 21:28 - [server_room]   Humidity:40.43,          Temperature:18.88;
+30-12-2014 21:28 - [garden]   Humidity:21.99,          Temperature:25.72;
+30-12-2014 21:28 - [server_room]   Humidity:40.43,          Temperature:18.96;
+30-12-2014 21:28 - [garden]   Humidity:21.99,          Temperature:25.72;
+30-12-2014 21:29 - [server_room]   Humidity:39.92,          Temperature:19.04;
+30-12-2014 21:29 - [garden]   Humidity:21.99,          Temperature:25.76;
+30-12-2014 21:29 - [server_room]   Humidity:39.92,          Temperature:19.07;
+30-12-2014 21:29 - [garden]   Humidity:21.99,          Temperature:25.72;
+30-12-2014 21:30 - [server_room]   Humidity:39.39,          Temperature:19.12;
+30-12-2014 21:30 - [garden]   Humidity:22.00,          Temperature:25.80;
+30-12-2014 21:30 - [server_room]   Humidity:39.39,          Temperature:19.12;
+30-12-2014 21:30 - [garden]   Humidity:22.00,          Temperature:25.80;
+30-12-2014 21:31 - [server_room]   Humidity:39.41,          Temperature:19.28;
+30-12-2014 21:31 - [garden]   Humidity:22.00,          Temperature:25.76;
+30-12-2014 21:32 - [server_room]   Humidity:39.41,          Temperature:19.36;
+30-12-2014 21:32 - [garden]   Humidity:22.00,          Temperature:25.84;
+30-12-2014 21:33 - [server_room]   Humidity:39.42,          Temperature:19.36;
+30-12-2014 21:33 - [garden]   Humidity:22.00,          Temperature:25.80;
+30-12-2014 21:33 - [server_room]   Humidity:39.42,          Temperature:19.39;
+30-12-2014 21:33 - [garden]   Humidity:22.00,          Temperature:25.80;
+30-12-2014 21:34 - [server_room]   Humidity:38.90,          Temperature:19.48;
+30-12-2014 21:34 - [garden]   Humidity:22.00,          Temperature:25.76;
+30-12-2014 21:34 - [server_room]   Humidity:38.90,          Temperature:19.48;
+30-12-2014 21:34 - [garden]   Humidity:22.00,          Temperature:25.76;
+30-12-2014 21:35 - [server_room]   Humidity:38.90,          Temperature:19.52;
+30-12-2014 21:35 - [garden]   Humidity:22.00,          Temperature:25.80;
+30-12-2014 21:35 - [server_room]   Humidity:38.90,          Temperature:19.52;
+30-12-2014 21:35 - [garden]   Humidity:22.00,          Temperature:25.80;
+30-12-2014 21:36 - [server_room]   Humidity:39.42,          Temperature:19.43;
+30-12-2014 21:36 - [garden]   Humidity:22.00,          Temperature:25.80;
+30-12-2014 21:36 - [server_room]   Humidity:39.42,          Temperature:19.43;
+30-12-2014 21:36 - [garden]   Humidity:22.00,          Temperature:25.80;
+30-12-2014 21:37 - [server_room]   Humidity:38.90,          Temperature:19.56;
+30-12-2014 21:37 - [garden]   Humidity:22.00,          Temperature:25.76;
+30-12-2014 21:37 - [server_room]   Humidity:38.90,          Temperature:19.56;
+30-12-2014 21:37 - [garden]   Humidity:21.99,          Temperature:25.76;
+30-12-2014 21:38 - [server_room]   Humidity:38.91,          Temperature:19.60;
+30-12-2014 21:38 - [garden]   Humidity:22.00,          Temperature:25.76;
+30-12-2014 21:39 - [server_room]   Humidity:38.38,          Temperature:19.68;
+30-12-2014 21:39 - [garden]   Humidity:22.00,          Temperature:25.80;
+30-12-2014 21:40 - [server_room]   Humidity:38.90,          Temperature:19.56;
+30-12-2014 21:40 - [garden]   Humidity:22.00,          Temperature:25.80;
+30-12-2014 21:40 - [server_room]   Humidity:38.90,          Temperature:19.56;
+30-12-2014 21:40 - [garden]   Humidity:22.00,          Temperature:25.76;
+30-12-2014 21:41 - [server_room]   Humidity:38.90,          Temperature:19.56;
+30-12-2014 21:41 - [garden]   Humidity:22.00,          Temperature:25.80;
+30-12-2014 21:41 - [server_room]   Humidity:38.90,          Temperature:19.60;
+30-12-2014 21:41 - [garden]   Humidity:22.00,          Temperature:25.84;
+30-12-2014 21:42 - [server_room]   Humidity:38.91,          Temperature:19.56;
+30-12-2014 21:42 - [garden]   Humidity:22.00,          Temperature:25.80;
+30-12-2014 21:42 - [server_room]   Humidity:38.90,          Temperature:19.60;
+30-12-2014 21:42 - [garden]   Humidity:22.00,          Temperature:25.84;
+30-12-2014 21:43 - [server_room]   Humidity:38.90,          Temperature:19.56;
+30-12-2014 21:43 - [garden]   Humidity:22.00,          Temperature:25.84;
+30-12-2014 21:43 - [server_room]   Humidity:38.90,          Temperature:19.60;
+30-12-2014 21:43 - [garden]   Humidity:22.00,          Temperature:25.84;
+30-12-2014 21:44 - [server_room]   Humidity:38.38,          Temperature:19.68;
+30-12-2014 21:44 - [garden]   Humidity:22.00,          Temperature:25.80;
+30-12-2014 21:44 - [server_room]   Humidity:38.38,          Temperature:19.72;
+30-12-2014 21:44 - [garden]   Humidity:22.00,          Temperature:25.84;
+30-12-2014 21:45 - [server_room]   Humidity:38.91,          Temperature:19.60;
+30-12-2014 21:45 - [garden]   Humidity:22.00,          Temperature:25.88;
+30-12-2014 21:46 - [server_room]   Humidity:38.91,          Temperature:19.60;
+30-12-2014 21:46 - [garden]   Humidity:22.00,          Temperature:25.88;
+30-12-2014 21:47 - [server_room]   Humidity:38.90,          Temperature:19.56;
+30-12-2014 21:47 - [garden]   Humidity:22.00,          Temperature:25.92;
+30-12-2014 21:47 - [server_room]   Humidity:38.90,          Temperature:19.56;
+30-12-2014 21:47 - [garden]   Humidity:22.00,          Temperature:25.92;
+30-12-2014 21:48 - [server_room]   Humidity:38.91,          Temperature:19.64;
+30-12-2014 21:48 - [garden]   Humidity:22.00,          Temperature:25.92;
+30-12-2014 21:48 - [server_room]   Humidity:38.91,          Temperature:19.64;
+30-12-2014 21:48 - [garden]   Humidity:22.00,          Temperature:25.92;
+30-12-2014 21:49 - [server_room]   Humidity:38.90,          Temperature:19.64;
+30-12-2014 21:49 - [garden]   Humidity:22.00,          Temperature:25.92;
+30-12-2014 21:49 - [server_room]   Humidity:38.90,          Temperature:19.60;
+30-12-2014 21:49 - [garden]   Humidity:22.00,          Temperature:25.92;
+30-12-2014 21:50 - [server_room]   Humidity:38.90,          Temperature:19.56;
+30-12-2014 21:50 - [garden]   Humidity:22.00,          Temperature:25.92;
+30-12-2014 21:50 - [server_room]   Humidity:38.90,          Temperature:19.56;
+30-12-2014 21:50 - [garden]   Humidity:22.00,          Temperature:25.92;
+30-12-2014 21:51 - [server_room]   Humidity:38.90,          Temperature:19.60;
+30-12-2014 21:51 - [garden]   Humidity:22.00,          Temperature:25.92;
+30-12-2014 21:51 - [server_room]   Humidity:38.90,          Temperature:19.56;
+30-12-2014 21:51 - [garden]   Humidity:22.00,          Temperature:25.92;
+30-12-2014 21:52 - [server_room]   Humidity:38.90,          Temperature:19.56;
+30-12-2014 21:52 - [garden]   Humidity:22.01,          Temperature:25.96;
+30-12-2014 21:53 - [server_room]   Humidity:38.90,          Temperature:19.56;
+30-12-2014 21:53 - [garden]   Humidity:22.01,          Temperature:25.96;
+30-12-2014 21:54 - [server_room]   Humidity:38.90,          Temperature:19.56;
+30-12-2014 21:54 - [garden]   Humidity:22.01,          Temperature:25.92;
+30-12-2014 21:54 - [server_room]   Humidity:38.90,          Temperature:19.52;
+30-12-2014 21:54 - [garden]   Humidity:22.01,          Temperature:25.92;
+30-12-2014 21:55 - [server_room]   Humidity:38.90,          Temperature:19.56;
+30-12-2014 21:55 - [garden]   Humidity:22.01,          Temperature:25.96;
+30-12-2014 21:55 - [server_room]   Humidity:38.90,          Temperature:19.56;
+30-12-2014 21:55 - [garden]   Humidity:22.01,          Temperature:25.96;
+30-12-2014 21:56 - [server_room]   Humidity:38.90,          Temperature:19.60;
+30-12-2014 21:56 - [garden]   Humidity:22.01,          Temperature:25.96;
+30-12-2014 21:56 - [server_room]   Humidity:38.90,          Temperature:19.60;
+30-12-2014 21:56 - [garden]   Humidity:22.01,          Temperature:25.96;
+30-12-2014 21:57 - [server_room]   Humidity:38.91,          Temperature:19.64;
+30-12-2014 21:57 - [garden]   Humidity:22.01,          Temperature:26.00;
+30-12-2014 21:57 - [server_room]   Humidity:38.91,          Temperature:19.64;
+30-12-2014 21:57 - [garden]   Humidity:22.01,          Temperature:26.04;
+30-12-2014 21:58 - [server_room]   Humidity:38.38,          Temperature:19.72;
+30-12-2014 21:58 - [garden]   Humidity:22.01,          Temperature:26.04;
+30-12-2014 21:58 - [server_room]   Humidity:38.38,          Temperature:19.72;
+30-12-2014 21:58 - [garden]   Humidity:22.01,          Temperature:26.08;
+30-12-2014 21:59 - [server_room]   Humidity:38.39,          Temperature:19.80;
+30-12-2014 21:59 - [garden]   Humidity:21.43,          Temperature:26.16;
+30-12-2014 22:00 - [server_room]   Humidity:38.39,          Temperature:19.84;
+30-12-2014 22:00 - [garden]   Humidity:22.02,          Temperature:26.08;
+30-12-2014 22:01 - [server_room]   Humidity:38.38,          Temperature:19.72;
+30-12-2014 22:01 - [garden]   Humidity:22.02,          Temperature:26.08;
+30-12-2014 22:01 - [server_room]   Humidity:38.38,          Temperature:19.72;
+30-12-2014 22:01 - [garden]   Humidity:22.02,          Temperature:26.08;
+30-12-2014 22:02 - [server_room]   Humidity:38.91,          Temperature:19.68;
+30-12-2014 22:02 - [garden]   Humidity:22.02,          Temperature:26.12;
+30-12-2014 22:02 - [server_room]   Humidity:38.91,          Temperature:19.68;
+30-12-2014 22:02 - [garden]   Humidity:22.02,          Temperature:26.16;
+30-12-2014 22:03 - [server_room]   Humidity:38.91,          Temperature:19.68;
+30-12-2014 22:03 - [garden]   Humidity:22.02,          Temperature:26.16;
+30-12-2014 22:03 - [server_room]   Humidity:38.92,          Temperature:19.68;
+30-12-2014 22:03 - [garden]   Humidity:21.43,          Temperature:26.16;
+30-12-2014 22:04 - [server_room]   Humidity:38.38,          Temperature:19.75;
+30-12-2014 22:04 - [garden]   Humidity:21.43,          Temperature:26.16;
+30-12-2014 22:04 - [server_room]   Humidity:38.38,          Temperature:19.75;
+30-12-2014 22:04 - [garden]   Humidity:22.02,          Temperature:26.20;
+30-12-2014 22:05 - [server_room]   Humidity:38.92,          Temperature:19.68;
+30-12-2014 22:05 - [garden]   Humidity:22.02,          Temperature:26.16;
+30-12-2014 22:05 - [server_room]   Humidity:38.91,          Temperature:19.68;
+30-12-2014 22:05 - [garden]   Humidity:21.43,          Temperature:26.20;
+30-12-2014 22:06 - [server_room]   Humidity:38.38,          Temperature:19.75;
+30-12-2014 22:06 - [garden]   Humidity:21.43,          Temperature:26.20;
+30-12-2014 22:07 - [server_room]   Humidity:38.38,          Temperature:19.75;
+30-12-2014 22:07 - [garden]   Humidity:21.43,          Temperature:26.16;
+30-12-2014 22:08 - [server_room]   Humidity:38.38,          Temperature:19.75;
+30-12-2014 22:08 - [garden]   Humidity:21.44,          Temperature:26.24;
+30-12-2014 22:08 - [server_room]   Humidity:38.38,          Temperature:19.72;
+30-12-2014 22:08 - [garden]   Humidity:22.02,          Temperature:26.20;
+30-12-2014 22:09 - [server_room]   Humidity:38.38,          Temperature:19.80;
+30-12-2014 22:09 - [garden]   Humidity:21.44,          Temperature:26.24;
+30-12-2014 22:09 - [server_room]   Humidity:38.39,          Temperature:19.80;
+30-12-2014 22:09 - [garden]   Humidity:21.44,          Temperature:26.24;
+30-12-2014 22:10 - [server_room]   Humidity:38.39,          Temperature:19.84;
+30-12-2014 22:10 - [garden]   Humidity:21.44,          Temperature:26.24;
+30-12-2014 22:10 - [server_room]   Humidity:38.39,          Temperature:19.84;
+30-12-2014 22:10 - [garden]   Humidity:21.44,          Temperature:26.24;
+30-12-2014 22:11 - [server_room]   Humidity:38.91,          Temperature:19.68;
+30-12-2014 22:11 - [garden]   Humidity:21.44,          Temperature:26.24;
+30-12-2014 22:11 - [server_room]   Humidity:38.38,          Temperature:19.68;
+30-12-2014 22:11 - [garden]   Humidity:21.44,          Temperature:26.24;
+30-12-2014 22:12 - [server_room]   Humidity:39.43,          Temperature:19.43;
+30-12-2014 22:12 - [garden]   Humidity:21.44,          Temperature:26.28;
+30-12-2014 22:12 - [server_room]   Humidity:39.43,          Temperature:19.43;
+30-12-2014 22:12 - [garden]   Humidity:21.44,          Temperature:26.32;
+30-12-2014 22:13 - [server_room]   Humidity:39.41,          Temperature:19.24;
+30-12-2014 22:13 - [garden]   Humidity:21.44,          Temperature:26.24;
+30-12-2014 22:14 - [server_room]   Humidity:39.40,          Temperature:19.20;
+30-12-2014 22:14 - [garden]   Humidity:21.44,          Temperature:26.28;
+30-12-2014 22:15 - [server_room]   Humidity:39.93,          Temperature:19.12;
+30-12-2014 22:15 - [garden]   Humidity:21.44,          Temperature:26.28;
+30-12-2014 22:15 - [server_room]   Humidity:39.92,          Temperature:19.12;
+30-12-2014 22:15 - [garden]   Humidity:21.44,          Temperature:26.32;
+30-12-2014 22:16 - [server_room]   Humidity:39.91,          Temperature:19.04;
+30-12-2014 22:16 - [garden]   Humidity:21.44,          Temperature:26.32;
+30-12-2014 22:16 - [server_room]   Humidity:39.91,          Temperature:19.04;
+30-12-2014 22:16 - [garden]   Humidity:21.44,          Temperature:26.32;
+30-12-2014 22:17 - [server_room]   Humidity:40.44,          Temperature:18.92;
+30-12-2014 22:17 - [garden]   Humidity:21.44,          Temperature:26.36;
+30-12-2014 22:17 - [server_room]   Humidity:40.43,          Temperature:18.92;
+30-12-2014 22:17 - [garden]   Humidity:21.45,          Temperature:26.36;
+30-12-2014 22:18 - [server_room]   Humidity:40.43,          Temperature:18.88;
+30-12-2014 22:18 - [garden]   Humidity:21.45,          Temperature:26.40;
+30-12-2014 22:18 - [server_room]   Humidity:40.43,          Temperature:18.88;
+30-12-2014 22:18 - [garden]   Humidity:21.45,          Temperature:26.40;
+30-12-2014 22:19 - [server_room]   Humidity:40.42,          Temperature:18.80;
+30-12-2014 22:19 - [garden]   Humidity:21.45,          Temperature:26.40;
+30-12-2014 22:19 - [server_room]   Humidity:40.42,          Temperature:18.80;
+30-12-2014 22:19 - [garden]   Humidity:21.45,          Temperature:26.40;
+30-12-2014 22:20 - [server_room]   Humidity:40.42,          Temperature:18.75;
+30-12-2014 22:20 - [garden]   Humidity:20.86,          Temperature:26.44;
+30-12-2014 22:21 - [server_room]   Humidity:40.41,          Temperature:18.72;
+30-12-2014 22:21 - [garden]   Humidity:21.45,          Temperature:26.48;
+30-12-2014 22:22 - [server_room]   Humidity:40.41,          Temperature:18.72;
+30-12-2014 22:22 - [garden]   Humidity:21.45,          Temperature:26.40;
+30-12-2014 22:22 - [server_room]   Humidity:40.41,          Temperature:18.72;
+30-12-2014 22:22 - [garden]   Humidity:21.45,          Temperature:26.40;
+30-12-2014 22:23 - [server_room]   Humidity:40.41,          Temperature:18.72;
+30-12-2014 22:23 - [garden]   Humidity:21.45,          Temperature:26.44;
+30-12-2014 22:23 - [server_room]   Humidity:40.41,          Temperature:18.72;
+30-12-2014 22:23 - [garden]   Humidity:20.86,          Temperature:26.44;
+30-12-2014 22:24 - [server_room]   Humidity:40.40,          Temperature:18.64;
+30-12-2014 22:24 - [garden]   Humidity:21.45,          Temperature:26.44;
+30-12-2014 22:24 - [server_room]   Humidity:40.40,          Temperature:18.64;
+30-12-2014 22:24 - [garden]   Humidity:21.45,          Temperature:26.40;
+30-12-2014 22:25 - [server_room]   Humidity:40.41,          Temperature:18.75;
+30-12-2014 22:25 - [garden]   Humidity:20.85,          Temperature:26.40;
+30-12-2014 22:25 - [server_room]   Humidity:40.41,          Temperature:18.75;
+30-12-2014 22:25 - [garden]   Humidity:21.45,          Temperature:26.40;
+30-12-2014 22:26 - [server_room]   Humidity:40.44,          Temperature:18.96;
+30-12-2014 22:26 - [garden]   Humidity:21.45,          Temperature:26.36;
+30-12-2014 22:26 - [server_room]   Humidity:40.44,          Temperature:19.00;
+30-12-2014 22:26 - [garden]   Humidity:21.45,          Temperature:26.40;
+30-12-2014 22:27 - [server_room]   Humidity:39.93,          Temperature:19.12;
+30-12-2014 22:27 - [garden]   Humidity:21.45,          Temperature:26.40;
+30-12-2014 22:28 - [server_room]   Humidity:39.93,          Temperature:19.16;
+30-12-2014 22:28 - [garden]   Humidity:21.45,          Temperature:26.44;
+30-12-2014 22:29 - [server_room]   Humidity:39.41,          Temperature:19.28;
+30-12-2014 22:29 - [garden]   Humidity:21.45,          Temperature:26.40;
+30-12-2014 22:29 - [server_room]   Humidity:39.41,          Temperature:19.28;
+30-12-2014 22:29 - [garden]   Humidity:21.45,          Temperature:26.44;
+30-12-2014 22:30 - [server_room]   Humidity:39.42,          Temperature:19.43;
+30-12-2014 22:30 - [garden]   Humidity:20.86,          Temperature:26.48;
+30-12-2014 22:30 - [server_room]   Humidity:39.42,          Temperature:19.39;
+30-12-2014 22:30 - [garden]   Humidity:21.45,          Temperature:26.48;
+30-12-2014 22:31 - [server_room]   Humidity:39.44,          Temperature:19.56;
+30-12-2014 22:31 - [garden]   Humidity:21.45,          Temperature:26.44;
+30-12-2014 22:31 - [server_room]   Humidity:39.43,          Temperature:19.56;
+30-12-2014 22:31 - [garden]   Humidity:20.86,          Temperature:26.44;
+30-12-2014 22:32 - [server_room]   Humidity:38.91,          Temperature:19.64;
+30-12-2014 22:32 - [garden]   Humidity:21.45,          Temperature:26.40;
+30-12-2014 22:32 - [server_room]   Humidity:38.91,          Temperature:19.64;
+30-12-2014 22:32 - [garden]   Humidity:21.45,          Temperature:26.36;
+30-12-2014 22:33 - [server_room]   Humidity:38.92,          Temperature:19.72;
+30-12-2014 22:33 - [garden]   Humidity:21.45,          Temperature:26.36;
+30-12-2014 22:33 - [server_room]   Humidity:38.92,          Temperature:19.72;
+30-12-2014 22:33 - [garden]   Humidity:21.45,          Temperature:26.36;
+30-12-2014 22:34 - [server_room]   Humidity:38.92,          Temperature:19.75;
+30-12-2014 22:34 - [garden]   Humidity:21.44,          Temperature:26.36;
+30-12-2014 22:35 - [server_room]   Humidity:38.92,          Temperature:19.72;
+30-12-2014 22:35 - [garden]   Humidity:21.44,          Temperature:26.36;
+30-12-2014 22:36 - [server_room]   Humidity:38.91,          Temperature:19.64;
+30-12-2014 22:36 - [garden]   Humidity:21.45,          Temperature:26.40;
+30-12-2014 22:36 - [server_room]   Humidity:38.91,          Temperature:19.68;
+30-12-2014 22:36 - [garden]   Humidity:21.45,          Temperature:26.40;
+30-12-2014 22:37 - [server_room]   Humidity:38.39,          Temperature:19.84;
+30-12-2014 22:37 - [garden]   Humidity:21.45,          Temperature:26.36;
+30-12-2014 22:37 - [server_room]   Humidity:38.40,          Temperature:19.84;
+30-12-2014 22:37 - [garden]   Humidity:21.44,          Temperature:26.36;
+30-12-2014 22:38 - [server_room]   Humidity:38.92,          Temperature:19.75;
+30-12-2014 22:38 - [garden]   Humidity:21.45,          Temperature:26.36;
+30-12-2014 22:38 - [server_room]   Humidity:38.92,          Temperature:19.75;
+30-12-2014 22:38 - [garden]   Humidity:21.45,          Temperature:26.36;
+30-12-2014 22:39 - [server_room]   Humidity:38.39,          Temperature:19.84;
+30-12-2014 22:39 - [garden]   Humidity:21.45,          Temperature:26.36;
+30-12-2014 22:39 - [server_room]   Humidity:38.39,          Temperature:19.84;
+30-12-2014 22:39 - [garden]   Humidity:21.45,          Temperature:26.40;
+30-12-2014 22:40 - [server_room]   Humidity:38.39,          Temperature:19.84;
+30-12-2014 22:40 - [garden]   Humidity:21.45,          Temperature:26.40;
+30-12-2014 22:40 - [server_room]   Humidity:38.39,          Temperature:19.84;
+30-12-2014 22:40 - [garden]   Humidity:21.45,          Temperature:26.40;
+30-12-2014 22:41 - [server_room]   Humidity:38.92,          Temperature:19.84;
+30-12-2014 22:41 - [garden]   Humidity:21.45,          Temperature:26.40;
+30-12-2014 22:42 - [server_room]   Humidity:38.39,          Temperature:19.84;
+30-12-2014 22:42 - [garden]   Humidity:21.45,          Temperature:26.40;
+30-12-2014 22:43 - [server_room]   Humidity:38.40,          Temperature:19.84;
+30-12-2014 22:43 - [garden]   Humidity:21.45,          Temperature:26.40;
+30-12-2014 22:43 - [server_room]   Humidity:38.40,          Temperature:19.88;
+30-12-2014 22:43 - [garden]   Humidity:21.45,          Temperature:26.40;
+30-12-2014 22:44 - [server_room]   Humidity:38.40,          Temperature:19.92;
+30-12-2014 22:44 - [garden]   Humidity:21.45,          Temperature:26.40;
+30-12-2014 22:44 - [server_room]   Humidity:38.40,          Temperature:19.92;
+30-12-2014 22:44 - [garden]   Humidity:21.45,          Temperature:26.40;
+30-12-2014 22:45 - [server_room]   Humidity:38.40,          Temperature:19.96;
+30-12-2014 22:45 - [garden]   Humidity:21.45,          Temperature:26.40;
+30-12-2014 22:45 - [server_room]   Humidity:38.41,          Temperature:19.92;
+30-12-2014 22:45 - [garden]   Humidity:21.45,          Temperature:26.40;
+30-12-2014 22:46 - [server_room]   Humidity:38.39,          Temperature:19.84;
+30-12-2014 22:46 - [garden]   Humidity:21.45,          Temperature:26.40;
+30-12-2014 22:46 - [server_room]   Humidity:38.39,          Temperature:19.84;
+30-12-2014 22:46 - [garden]   Humidity:21.45,          Temperature:26.40;
+30-12-2014 22:47 - [server_room]   Humidity:38.93,          Temperature:19.84;
+30-12-2014 22:47 - [garden]   Humidity:21.45,          Temperature:26.40;
+30-12-2014 22:47 - [server_room]   Humidity:38.93,          Temperature:19.84;
+30-12-2014 22:47 - [garden]   Humidity:21.45,          Temperature:26.40;
+30-12-2014 22:48 - [server_room]   Humidity:38.92,          Temperature:19.75;
+30-12-2014 22:48 - [garden]   Humidity:21.46,          Temperature:26.52;
+30-12-2014 22:49 - [server_room]   Humidity:38.92,          Temperature:19.72;
+30-12-2014 22:49 - [garden]   Humidity:21.46,          Temperature:26.52;
+30-12-2014 22:50 - [server_room]   Humidity:38.93,          Temperature:19.80;
+30-12-2014 22:50 - [garden]   Humidity:21.46,          Temperature:26.52;
+30-12-2014 22:50 - [server_room]   Humidity:38.93,          Temperature:19.80;
+30-12-2014 22:50 - [garden]   Humidity:21.46,          Temperature:26.52;
+30-12-2014 22:51 - [server_room]   Humidity:38.40,          Temperature:19.84;
+30-12-2014 22:51 - [garden]   Humidity:20.86,          Temperature:26.52;
+30-12-2014 22:51 - [server_room]   Humidity:38.40,          Temperature:19.84;
+30-12-2014 22:51 - [garden]   Humidity:20.86,          Temperature:26.48;
+30-12-2014 22:52 - [server_room]   Humidity:38.93,          Temperature:19.80;
+30-12-2014 22:52 - [garden]   Humidity:21.45,          Temperature:26.52;
+30-12-2014 22:52 - [server_room]   Humidity:38.92,          Temperature:19.75;
+30-12-2014 22:52 - [garden]   Humidity:21.45,          Temperature:26.52;
+30-12-2014 22:53 - [server_room]   Humidity:38.92,          Temperature:19.80;
+30-12-2014 22:53 - [garden]   Humidity:21.46,          Temperature:26.48;
+30-12-2014 22:53 - [server_room]   Humidity:38.93,          Temperature:19.84;
+30-12-2014 22:53 - [garden]   Humidity:21.45,          Temperature:26.48;
+30-12-2014 22:54 - [server_room]   Humidity:38.40,          Temperature:19.92;
+30-12-2014 22:54 - [garden]   Humidity:21.45,          Temperature:26.48;
+30-12-2014 22:54 - [server_room]   Humidity:38.40,          Temperature:19.92;
+30-12-2014 22:54 - [garden]   Humidity:21.45,          Temperature:26.52;
+30-12-2014 22:55 - [server_room]   Humidity:38.40,          Temperature:19.92;
+30-12-2014 22:55 - [garden]   Humidity:21.46,          Temperature:26.52;
+30-12-2014 22:56 - [server_room]   Humidity:38.40,          Temperature:19.92;
+30-12-2014 22:56 - [garden]   Humidity:21.45,          Temperature:26.52;
+30-12-2014 22:57 - [server_room]   Humidity:38.40,          Temperature:19.92;
+30-12-2014 22:57 - [garden]   Humidity:21.45,          Temperature:26.48;
+30-12-2014 22:57 - [server_room]   Humidity:38.40,          Temperature:19.92;
+30-12-2014 22:57 - [garden]   Humidity:21.45,          Temperature:26.48;
+30-12-2014 22:58 - [server_room]   Humidity:38.40,          Temperature:19.92;
+30-12-2014 22:58 - [garden]   Humidity:21.46,          Temperature:26.48;
+30-12-2014 22:58 - [server_room]   Humidity:38.40,          Temperature:19.92;
+30-12-2014 22:58 - [garden]   Humidity:21.45,          Temperature:26.48;
+30-12-2014 22:59 - [server_room]   Humidity:38.40,          Temperature:19.92;
+30-12-2014 22:59 - [garden]   Humidity:21.45,          Temperature:26.40;
+30-12-2014 22:59 - [server_room]   Humidity:38.40,          Temperature:19.84;
+30-12-2014 22:59 - [garden]   Humidity:21.45,          Temperature:26.40;
+30-12-2014 23:00 - [server_room]   Humidity:38.41,          Temperature:19.96;
+30-12-2014 23:00 - [garden]   Humidity:21.45,          Temperature:26.44;
+30-12-2014 23:00 - [server_room]   Humidity:38.41,          Temperature:19.96;
+30-12-2014 23:00 - [garden]   Humidity:21.45,          Temperature:26.44;
+30-12-2014 23:01 - [server_room]   Humidity:38.40,          Temperature:19.96;
+30-12-2014 23:01 - [garden]   Humidity:21.45,          Temperature:26.40;
+30-12-2014 23:01 - [server_room]   Humidity:38.41,          Temperature:19.92;
+30-12-2014 23:01 - [garden]   Humidity:21.45,          Temperature:26.40;
+30-12-2014 23:03 - [server_room]   Humidity:38.41,          Temperature:19.96;
+30-12-2014 23:03 - [garden]   Humidity:21.45,          Temperature:26.48;
+30-12-2014 23:03 - [server_room]   Humidity:38.40,          Temperature:19.92;
+30-12-2014 23:03 - [garden]   Humidity:21.45,          Temperature:26.44;
+30-12-2014 23:04 - [server_room]   Humidity:38.40,          Temperature:19.96;
+30-12-2014 23:04 - [garden]   Humidity:21.45,          Temperature:26.40;
+30-12-2014 23:04 - [server_room]   Humidity:38.40,          Temperature:19.96;
+30-12-2014 23:04 - [garden]   Humidity:21.45,          Temperature:26.40;
+30-12-2014 23:05 - [server_room]   Humidity:38.42,          Temperature:20.04;
+30-12-2014 23:05 - [garden]   Humidity:21.45,          Temperature:26.48;
+30-12-2014 23:05 - [server_room]   Humidity:38.42,          Temperature:20.00;
+30-12-2014 23:05 - [garden]   Humidity:21.45,          Temperature:26.48;
+30-12-2014 23:06 - [server_room]   Humidity:38.40,          Temperature:20.00;
+30-12-2014 23:06 - [garden]   Humidity:21.45,          Temperature:26.44;
+30-12-2014 23:06 - [server_room]   Humidity:38.41,          Temperature:20.00;
+30-12-2014 23:06 - [garden]   Humidity:21.45,          Temperature:26.44;
+30-12-2014 23:07 - [server_room]   Humidity:38.42,          Temperature:20.07;
+30-12-2014 23:07 - [garden]   Humidity:21.45,          Temperature:26.48;
+30-12-2014 23:07 - [server_room]   Humidity:38.42,          Temperature:20.07;
+30-12-2014 23:07 - [garden]   Humidity:21.45,          Temperature:26.48;
+30-12-2014 23:08 - [server_room]   Humidity:38.41,          Temperature:20.00;
+30-12-2014 23:08 - [garden]   Humidity:21.45,          Temperature:26.44;
+30-12-2014 23:08 - [server_room]   Humidity:38.40,          Temperature:19.96;
+30-12-2014 23:08 - [garden]   Humidity:21.45,          Temperature:26.44;
+30-12-2014 23:10 - [server_room]   Humidity:38.40,          Temperature:20.00;
+30-12-2014 23:10 - [garden]   Humidity:21.45,          Temperature:26.48;
+30-12-2014 23:10 - [server_room]   Humidity:38.41,          Temperature:19.96;
+30-12-2014 23:10 - [garden]   Humidity:21.45,          Temperature:26.48;
+30-12-2014 23:11 - [server_room]   Humidity:38.41,          Temperature:20.00;
+30-12-2014 23:11 - [garden]   Humidity:21.45,          Temperature:26.48;
+30-12-2014 23:11 - [server_room]   Humidity:38.42,          Temperature:20.07;
+30-12-2014 23:11 - [garden]   Humidity:21.45,          Temperature:26.48;
+30-12-2014 23:12 - [server_room]   Humidity:38.42,          Temperature:20.04;
+30-12-2014 23:12 - [garden]   Humidity:21.46,          Temperature:26.56;
+30-12-2014 23:12 - [server_room]   Humidity:38.42,          Temperature:20.04;
+30-12-2014 23:12 - [garden]   Humidity:21.46,          Temperature:26.56;
+30-12-2014 23:13 - [server_room]   Humidity:38.92,          Temperature:19.80;
+30-12-2014 23:13 - [garden]   Humidity:21.46,          Temperature:26.52;
+30-12-2014 23:13 - [server_room]   Humidity:38.92,          Temperature:19.75;
+30-12-2014 23:13 - [garden]   Humidity:21.46,          Temperature:26.52;
+30-12-2014 23:14 - [server_room]   Humidity:39.43,          Temperature:19.52;
+30-12-2014 23:14 - [garden]   Humidity:21.46,          Temperature:26.56;
+30-12-2014 23:14 - [server_room]   Humidity:39.43,          Temperature:19.52;
+30-12-2014 23:14 - [garden]   Humidity:21.46,          Temperature:26.56;
+30-12-2014 23:15 - [server_room]   Humidity:39.42,          Temperature:19.36;
+30-12-2014 23:15 - [garden]   Humidity:21.46,          Temperature:26.56;
+30-12-2014 23:15 - [server_room]   Humidity:39.42,          Temperature:19.39;
+30-12-2014 23:15 - [garden]   Humidity:21.46,          Temperature:26.60;
+30-12-2014 23:17 - [server_room]   Humidity:39.93,          Temperature:19.20;
+30-12-2014 23:17 - [garden]   Humidity:20.87,          Temperature:26.64;
+30-12-2014 23:17 - [server_room]   Humidity:39.93,          Temperature:19.20;
+30-12-2014 23:17 - [garden]   Humidity:20.87,          Temperature:26.64;
+30-12-2014 23:18 - [server_room]   Humidity:39.94,          Temperature:19.24;
+30-12-2014 23:18 - [garden]   Humidity:20.87,          Temperature:26.60;
+30-12-2014 23:18 - [server_room]   Humidity:39.94,          Temperature:19.20;
+30-12-2014 23:18 - [garden]   Humidity:20.87,          Temperature:26.60;
+30-12-2014 23:19 - [server_room]   Humidity:40.46,          Temperature:19.20;
+30-12-2014 23:19 - [garden]   Humidity:21.46,          Temperature:26.56;
+30-12-2014 23:19 - [server_room]   Humidity:40.46,          Temperature:19.16;
+30-12-2014 23:19 - [garden]   Humidity:21.46,          Temperature:26.60;
+30-12-2014 23:20 - [server_room]   Humidity:40.45,          Temperature:19.04;
+30-12-2014 23:20 - [garden]   Humidity:21.46,          Temperature:26.64;
+30-12-2014 23:20 - [server_room]   Humidity:40.44,          Temperature:19.04;
+30-12-2014 23:20 - [garden]   Humidity:20.87,          Temperature:26.64;
+30-12-2014 23:21 - [server_room]   Humidity:40.44,          Temperature:19.00;
+30-12-2014 23:21 - [garden]   Humidity:20.87,          Temperature:26.60;
+30-12-2014 23:21 - [server_room]   Humidity:40.44,          Temperature:19.04;
+30-12-2014 23:21 - [garden]   Humidity:20.87,          Temperature:26.60;
+30-12-2014 23:22 - [server_room]   Humidity:40.44,          Temperature:19.00;
+30-12-2014 23:22 - [garden]   Humidity:21.46,          Temperature:26.60;
+30-12-2014 23:23 - [server_room]   Humidity:40.44,          Temperature:18.96;
+30-12-2014 23:23 - [garden]   Humidity:21.46,          Temperature:26.60;
+30-12-2014 23:24 - [server_room]   Humidity:40.44,          Temperature:18.96;
+30-12-2014 23:24 - [garden]   Humidity:20.87,          Temperature:26.60;
+30-12-2014 23:24 - [server_room]   Humidity:40.44,          Temperature:18.96;
+30-12-2014 23:24 - [garden]   Humidity:20.87,          Temperature:26.60;
+30-12-2014 23:25 - [server_room]   Humidity:40.44,          Temperature:18.92;
+30-12-2014 23:25 - [garden]   Humidity:21.46,          Temperature:26.60;
+30-12-2014 23:25 - [server_room]   Humidity:40.44,          Temperature:18.92;
+30-12-2014 23:25 - [garden]   Humidity:20.87,          Temperature:26.64;
+30-12-2014 23:26 - [server_room]   Humidity:40.45,          Temperature:19.16;
+30-12-2014 23:26 - [garden]   Humidity:21.46,          Temperature:26.60;
+30-12-2014 23:26 - [server_room]   Humidity:40.46,          Temperature:19.20;
+30-12-2014 23:26 - [garden]   Humidity:20.87,          Temperature:26.56;
+30-12-2014 23:27 - [server_room]   Humidity:39.94,          Temperature:19.32;
+30-12-2014 23:27 - [garden]   Humidity:21.46,          Temperature:26.56;
+30-12-2014 23:27 - [server_room]   Humidity:39.95,          Temperature:19.32;
+30-12-2014 23:27 - [garden]   Humidity:21.46,          Temperature:26.56;
+30-12-2014 23:28 - [server_room]   Humidity:39.43,          Temperature:19.52;
+30-12-2014 23:28 - [garden]   Humidity:21.46,          Temperature:26.52;
+30-12-2014 23:28 - [server_room]   Humidity:39.43,          Temperature:19.52;
+30-12-2014 23:28 - [garden]   Humidity:21.46,          Temperature:26.52;
+30-12-2014 23:29 - [server_room]   Humidity:39.44,          Temperature:19.60;
+30-12-2014 23:29 - [garden]   Humidity:21.46,          Temperature:26.60;
+30-12-2014 23:30 - [server_room]   Humidity:39.44,          Temperature:19.68;
+30-12-2014 23:30 - [garden]   Humidity:20.87,          Temperature:26.56;
+30-12-2014 23:31 - [server_room]   Humidity:39.46,          Temperature:19.75;
+30-12-2014 23:31 - [garden]   Humidity:21.46,          Temperature:26.56;
+30-12-2014 23:31 - [server_room]   Humidity:39.46,          Temperature:19.80;
+30-12-2014 23:31 - [garden]   Humidity:20.87,          Temperature:26.56;
+30-12-2014 23:32 - [server_room]   Humidity:38.94,          Temperature:19.92;
+30-12-2014 23:32 - [garden]   Humidity:20.87,          Temperature:26.64;
+30-12-2014 23:32 - [server_room]   Humidity:38.94,          Temperature:19.92;
+30-12-2014 23:32 - [garden]   Humidity:20.87,          Temperature:26.60;
+30-12-2014 23:33 - [server_room]   Humidity:38.93,          Temperature:19.84;
+30-12-2014 23:33 - [garden]   Humidity:21.46,          Temperature:26.60;
+30-12-2014 23:33 - [server_room]   Humidity:38.93,          Temperature:19.80;
+30-12-2014 23:33 - [garden]   Humidity:21.46,          Temperature:26.60;
+30-12-2014 23:34 - [server_room]   Humidity:38.93,          Temperature:19.88;
+30-12-2014 23:34 - [garden]   Humidity:20.87,          Temperature:26.64;
+30-12-2014 23:34 - [server_room]   Humidity:38.93,          Temperature:19.88;
+30-12-2014 23:34 - [garden]   Humidity:20.87,          Temperature:26.64;
+30-12-2014 23:35 - [server_room]   Humidity:38.94,          Temperature:19.96;
+30-12-2014 23:35 - [garden]   Humidity:20.87,          Temperature:26.64;
+30-12-2014 23:35 - [server_room]   Humidity:38.94,          Temperature:19.92;
+30-12-2014 23:35 - [garden]   Humidity:20.87,          Temperature:26.64;
+30-12-2014 23:36 - [server_room]   Humidity:38.94,          Temperature:19.92;
+30-12-2014 23:36 - [garden]   Humidity:20.87,          Temperature:26.64;
+30-12-2014 23:37 - [server_room]   Humidity:38.94,          Temperature:19.92;
+30-12-2014 23:37 - [garden]   Humidity:21.46,          Temperature:26.64;
+30-12-2014 23:38 - [server_room]   Humidity:38.94,          Temperature:19.92;
+30-12-2014 23:38 - [garden]   Humidity:21.46,          Temperature:26.64;
+30-12-2014 23:38 - [server_room]   Humidity:38.94,          Temperature:19.92;
+30-12-2014 23:38 - [garden]   Humidity:21.46,          Temperature:26.64;
+30-12-2014 23:39 - [server_room]   Humidity:38.41,          Temperature:20.00;
+30-12-2014 23:39 - [garden]   Humidity:20.87,          Temperature:26.68;
+30-12-2014 23:39 - [server_room]   Humidity:38.94,          Temperature:20.00;
+30-12-2014 23:39 - [garden]   Humidity:20.87,          Temperature:26.68;
+30-12-2014 23:40 - [server_room]   Humidity:38.41,          Temperature:20.04;
+30-12-2014 23:40 - [garden]   Humidity:20.87,          Temperature:26.64;
+30-12-2014 23:40 - [server_room]   Humidity:38.42,          Temperature:20.04;
+30-12-2014 23:40 - [garden]   Humidity:20.87,          Temperature:26.68;
+30-12-2014 23:41 - [server_room]   Humidity:38.41,          Temperature:20.00;
+30-12-2014 23:41 - [garden]   Humidity:20.87,          Temperature:26.64;
+30-12-2014 23:41 - [server_room]   Humidity:38.41,          Temperature:20.04;
+30-12-2014 23:41 - [garden]   Humidity:20.87,          Temperature:26.64;
+30-12-2014 23:42 - [server_room]   Humidity:38.41,          Temperature:20.04;
+30-12-2014 23:42 - [garden]   Humidity:20.87,          Temperature:26.72;
+30-12-2014 23:42 - [server_room]   Humidity:38.41,          Temperature:20.04;
+30-12-2014 23:42 - [garden]   Humidity:20.87,          Temperature:26.72;
+30-12-2014 23:43 - [server_room]   Humidity:38.42,          Temperature:20.07;
+30-12-2014 23:43 - [garden]   Humidity:20.88,          Temperature:26.76;
+30-12-2014 23:44 - [server_room]   Humidity:38.42,          Temperature:20.04;
+30-12-2014 23:44 - [garden]   Humidity:20.87,          Temperature:26.72;
+30-12-2014 23:45 - [server_room]   Humidity:38.42,          Temperature:20.07;
+30-12-2014 23:45 - [garden]   Humidity:20.87,          Temperature:26.68;
+30-12-2014 23:45 - [server_room]   Humidity:38.42,          Temperature:20.07;
+30-12-2014 23:45 - [garden]   Humidity:20.87,          Temperature:26.68;
+30-12-2014 23:46 - [server_room]   Humidity:38.42,          Temperature:20.07;
+30-12-2014 23:46 - [garden]   Humidity:20.88,          Temperature:26.72;
+30-12-2014 23:46 - [server_room]   Humidity:38.42,          Temperature:20.16;
+30-12-2014 23:46 - [garden]   Humidity:20.88,          Temperature:26.72;
+30-12-2014 23:47 - [server_room]   Humidity:38.42,          Temperature:20.12;
+30-12-2014 23:47 - [garden]   Humidity:20.88,          Temperature:26.72;
+30-12-2014 23:47 - [server_room]   Humidity:38.42,          Temperature:20.12;
+30-12-2014 23:47 - [garden]   Humidity:20.88,          Temperature:26.72;
+30-12-2014 23:48 - [server_room]   Humidity:38.42,          Temperature:20.16;
+30-12-2014 23:48 - [garden]   Humidity:20.88,          Temperature:26.72;
+30-12-2014 23:48 - [server_room]   Humidity:38.43,          Temperature:20.16;
+30-12-2014 23:48 - [garden]   Humidity:20.88,          Temperature:26.76;
+30-12-2014 23:49 - [server_room]   Humidity:38.42,          Temperature:20.16;
+30-12-2014 23:49 - [garden]   Humidity:20.88,          Temperature:26.76;
+30-12-2014 23:49 - [server_room]   Humidity:38.43,          Temperature:20.16;
+30-12-2014 23:49 - [garden]   Humidity:20.87,          Temperature:26.72;
+30-12-2014 23:50 - [server_room]   Humidity:38.42,          Temperature:20.16;
+30-12-2014 23:50 - [garden]   Humidity:20.88,          Temperature:26.72;
+30-12-2014 23:51 - [server_room]   Humidity:38.42,          Temperature:20.12;
+30-12-2014 23:51 - [garden]   Humidity:20.88,          Temperature:26.76;
+30-12-2014 23:52 - [server_room]   Humidity:38.42,          Temperature:20.16;
+30-12-2014 23:52 - [garden]   Humidity:20.88,          Temperature:26.76;
+30-12-2014 23:52 - [server_room]   Humidity:38.42,          Temperature:20.20;
+30-12-2014 23:52 - [garden]   Humidity:20.88,          Temperature:26.76;
+30-12-2014 23:53 - [server_room]   Humidity:38.42,          Temperature:20.07;
+30-12-2014 23:53 - [garden]   Humidity:20.88,          Temperature:26.72;
+30-12-2014 23:53 - [server_room]   Humidity:38.42,          Temperature:20.07;
+30-12-2014 23:53 - [garden]   Humidity:20.88,          Temperature:26.72;
+30-12-2014 23:54 - [server_room]   Humidity:38.42,          Temperature:20.12;
+30-12-2014 23:54 - [garden]   Humidity:20.87,          Temperature:26.72;
+30-12-2014 23:54 - [server_room]   Humidity:38.42,          Temperature:20.07;
+30-12-2014 23:54 - [garden]   Humidity:20.87,          Temperature:26.72;
+30-12-2014 23:55 - [server_room]   Humidity:38.42,          Temperature:20.16;
+30-12-2014 23:55 - [garden]   Humidity:20.87,          Temperature:26.72;
+30-12-2014 23:55 - [server_room]   Humidity:38.43,          Temperature:20.16;
+30-12-2014 23:55 - [garden]   Humidity:20.88,          Temperature:26.72;
+30-12-2014 23:56 - [server_room]   Humidity:38.42,          Temperature:20.16;
+30-12-2014 23:56 - [garden]   Humidity:21.47,          Temperature:26.72;
+30-12-2014 23:56 - [server_room]   Humidity:38.42,          Temperature:20.16;
+30-12-2014 23:56 - [garden]   Humidity:21.47,          Temperature:26.68;
+15-01-2015 21:40 - [server_room]   Humidity:25.89,          Temperature:31.28;
+15-01-2015 21:40 - [garden]   Humidity:36.50,          Temperature:22.56;
+15-01-2015 21:41 - [server_room]   Humidity:25.90,          Temperature:31.44;
+15-01-2015 21:41 - [garden]   Humidity:36.51,          Temperature:22.72;
+15-01-2015 21:42 - [server_room]   Humidity:25.90,          Temperature:31.44;
+15-01-2015 21:42 - [garden]   Humidity:36.51,          Temperature:22.68;
+15-01-2015 21:43 - [server_room]   Humidity:25.90,          Temperature:31.36;
+15-01-2015 21:43 - [garden]   Humidity:36.51,          Temperature:22.72;
+15-01-2015 21:44 - [server_room]   Humidity:25.89,          Temperature:31.36;
+15-01-2015 21:44 - [garden]   Humidity:36.51,          Temperature:22.72;
+15-01-2015 21:45 - [server_room]   Humidity:25.89,          Temperature:31.23;
+15-01-2015 21:45 - [garden]   Humidity:36.51,          Temperature:22.72;
+15-01-2015 21:46 - [server_room]   Humidity:25.90,          Temperature:31.40;
+15-01-2015 21:46 - [garden]   Humidity:36.51,          Temperature:22.72;
+15-01-2015 21:47 - [server_room]   Humidity:25.91,          Temperature:31.51;
+15-01-2015 21:47 - [garden]   Humidity:36.51,          Temperature:22.72;
+15-01-2015 21:48 - [server_room]   Humidity:25.89,          Temperature:31.32;
+15-01-2015 21:48 - [garden]   Humidity:36.52,          Temperature:22.76;
+15-01-2015 21:49 - [server_room]   Humidity:25.90,          Temperature:31.40;
+15-01-2015 21:49 - [garden]   Humidity:35.97,          Temperature:22.72;
+15-01-2015 21:51 - [server_room]   Humidity:25.91,          Temperature:31.51;
+15-01-2015 21:51 - [garden]   Humidity:36.51,          Temperature:22.64;
+15-01-2015 21:52 - [server_room]   Humidity:25.91,          Temperature:31.51;
+15-01-2015 21:52 - [garden]   Humidity:36.51,          Temperature:22.72;
+15-02-2015 14:11 - [server_room]   Humidity:24.54,          Temperature:28.72;
+15-02-2015 14:11 - [garden]   Humidity:36.27,          Temperature:20.24;
+15-02-2015 14:13 - [server_room]   Humidity:24.54,          Temperature:28.79;
+15-02-2015 14:13 - [garden]   Humidity:36.31,          Temperature:20.56;
+15-02-2015 14:14 - [server_room]   Humidity:23.97,          Temperature:29.08;
+15-02-2015 14:14 - [garden]   Humidity:36.31,          Temperature:20.60;
+15-02-2015 14:15 - [server_room]   Humidity:23.40,          Temperature:29.40;
+15-02-2015 14:15 - [garden]   Humidity:35.78,          Temperature:20.76;
+15-02-2015 14:16 - [server_room]   Humidity:24.54,          Temperature:28.68;
+15-02-2015 14:16 - [garden]   Humidity:36.32,          Temperature:20.68;
+15-02-2015 14:17 - [server_room]   Humidity:24.54,          Temperature:28.76;
+15-02-2015 14:17 - [garden]   Humidity:36.32,          Temperature:20.64;
+15-02-2015 14:18 - [server_room]   Humidity:23.99,          Temperature:29.23;
+15-02-2015 14:18 - [garden]   Humidity:35.79,          Temperature:20.80;
+15-02-2015 14:19 - [server_room]   Humidity:24.54,          Temperature:28.79;
+15-02-2015 14:19 - [garden]   Humidity:35.78,          Temperature:20.80;
+15-02-2015 14:20 - [server_room]   Humidity:23.41,          Temperature:29.40;
+15-02-2015 14:20 - [garden]   Humidity:35.78,          Temperature:20.76;
+15-02-2015 14:21 - [server_room]   Humidity:24.55,          Temperature:28.92;
+15-02-2015 14:21 - [garden]   Humidity:35.79,          Temperature:20.84;
+15-02-2015 14:22 - [server_room]   Humidity:23.99,          Temperature:29.28;
+15-02-2015 14:22 - [garden]   Humidity:35.78,          Temperature:20.76;
+15-02-2015 14:23 - [server_room]   Humidity:23.44,          Temperature:29.92;
+15-02-2015 14:23 - [garden]   Humidity:36.28,          Temperature:20.28;
+15-02-2015 14:24 - [server_room]   Humidity:24.53,          Temperature:28.64;
+15-02-2015 14:24 - [garden]   Humidity:36.81,          Temperature:20.16;
+15-02-2015 14:25 - [server_room]   Humidity:23.99,          Temperature:29.32;
+15-02-2015 14:25 - [garden]   Humidity:36.80,          Temperature:20.04;
+15-02-2015 14:26 - [server_room]   Humidity:24.54,          Temperature:28.79;
+15-02-2015 14:26 - [garden]   Humidity:37.35,          Temperature:20.08;
+15-02-2015 14:27 - [server_room]   Humidity:23.98,          Temperature:29.12;
+15-02-2015 14:27 - [garden]   Humidity:37.32,          Temperature:19.84;
+15-02-2015 14:28 - [server_room]   Humidity:23.99,          Temperature:29.28;
+15-02-2015 14:28 - [garden]   Humidity:37.33,          Temperature:20.00;
+15-02-2015 14:29 - [server_room]   Humidity:24.56,          Temperature:29.00;
+15-02-2015 14:29 - [garden]   Humidity:36.81,          Temperature:20.12;
+15-02-2015 14:30 - [server_room]   Humidity:24.56,          Temperature:29.12;
+15-02-2015 14:30 - [garden]   Humidity:36.80,          Temperature:20.08;
+15-02-2015 14:31 - [server_room]   Humidity:24.57,          Temperature:29.12;
+15-02-2015 14:31 - [garden]   Humidity:37.35,          Temperature:20.08;
+15-02-2015 14:32 - [server_room]   Humidity:23.45,          Temperature:30.08;
+15-02-2015 14:32 - [garden]   Humidity:36.82,          Temperature:20.28;
+15-02-2015 14:33 - [server_room]   Humidity:23.99,          Temperature:29.28;
+15-02-2015 14:33 - [garden]   Humidity:36.27,          Temperature:20.28;
+15-02-2015 14:34 - [server_room]   Humidity:23.97,          Temperature:29.08;
+15-02-2015 14:34 - [garden]   Humidity:36.81,          Temperature:20.12;
+15-02-2015 14:35 - [server_room]   Humidity:23.40,          Temperature:29.36;
+15-02-2015 14:35 - [garden]   Humidity:36.81,          Temperature:20.16;
+15-02-2015 14:36 - [server_room]   Humidity:23.40,          Temperature:29.36;
+15-02-2015 14:36 - [garden]   Humidity:36.80,          Temperature:20.08;
+15-02-2015 14:37 - [server_room]   Humidity:23.99,          Temperature:29.28;
+15-02-2015 14:37 - [garden]   Humidity:36.27,          Temperature:20.24;
+15-02-2015 14:38 - [server_room]   Humidity:23.98,          Temperature:29.20;
+15-02-2015 14:38 - [garden]   Humidity:35.79,          Temperature:20.84;
+15-02-2015 14:39 - [server_room]   Humidity:23.40,          Temperature:29.36;
+15-02-2015 14:39 - [garden]   Humidity:35.80,          Temperature:20.92;
+15-02-2015 14:40 - [server_room]   Humidity:23.43,          Temperature:29.72;
+15-02-2015 14:40 - [garden]   Humidity:35.77,          Temperature:20.72;
+15-02-2015 14:41 - [server_room]   Humidity:24.52,          Temperature:28.56;
+15-02-2015 14:41 - [garden]   Humidity:36.31,          Temperature:20.68;
+15-02-2015 14:42 - [server_room]   Humidity:24.54,          Temperature:28.79;
+15-02-2015 14:42 - [garden]   Humidity:36.32,          Temperature:20.72;
+15-02-2015 14:43 - [server_room]   Humidity:23.41,          Temperature:29.48;
+15-02-2015 14:43 - [garden]   Humidity:36.32,          Temperature:20.72;
+15-02-2015 14:44 - [server_room]   Humidity:24.54,          Temperature:28.84;
+15-02-2015 14:44 - [garden]   Humidity:35.25,          Temperature:20.96;
+15-02-2015 14:45 - [server_room]   Humidity:24.55,          Temperature:28.87;
+15-02-2015 14:45 - [garden]   Humidity:35.79,          Temperature:20.88;
+15-02-2015 14:46 - [server_room]   Humidity:23.40,          Temperature:29.36;
+15-02-2015 14:46 - [garden]   Humidity:35.25,          Temperature:21.00;
+15-02-2015 14:47 - [server_room]   Humidity:23.98,          Temperature:29.20;
+15-02-2015 14:47 - [garden]   Humidity:35.25,          Temperature:21.00;
+15-02-2015 14:48 - [server_room]   Humidity:23.98,          Temperature:29.23;
+15-02-2015 14:48 - [garden]   Humidity:36.33,          Temperature:20.80;
+15-02-2015 14:49 - [server_room]   Humidity:24.55,          Temperature:28.92;
+15-02-2015 14:49 - [garden]   Humidity:35.80,          Temperature:20.96;
+15-02-2015 14:50 - [server_room]   Humidity:24.56,          Temperature:29.08;
+15-02-2015 14:50 - [garden]   Humidity:36.31,          Temperature:20.60;
+15-02-2015 14:51 - [server_room]   Humidity:23.98,          Temperature:29.12;
+15-02-2015 14:51 - [garden]   Humidity:36.28,          Temperature:20.32;
+15-02-2015 14:52 - [server_room]   Humidity:23.98,          Temperature:29.20;
+15-02-2015 14:52 - [garden]   Humidity:36.82,          Temperature:20.20;
+15-02-2015 14:53 - [server_room]   Humidity:23.98,          Temperature:29.20;
+15-02-2015 14:53 - [garden]   Humidity:36.27,          Temperature:20.16;
+15-02-2015 14:54 - [server_room]   Humidity:24.54,          Temperature:28.79;
+15-02-2015 14:54 - [garden]   Humidity:36.28,          Temperature:20.28;
+15-02-2015 14:55 - [server_room]   Humidity:24.55,          Temperature:28.87;
+15-02-2015 14:55 - [garden]   Humidity:37.33,          Temperature:19.96;
+15-02-2015 14:56 - [server_room]   Humidity:23.99,          Temperature:29.23;
+15-02-2015 14:56 - [garden]   Humidity:36.80,          Temperature:19.92;
+15-02-2015 14:57 - [server_room]   Humidity:23.41,          Temperature:29.40;
+15-02-2015 14:57 - [garden]   Humidity:37.32,          Temperature:19.80;
+15-02-2015 14:58 - [server_room]   Humidity:24.55,          Temperature:28.87;
+15-02-2015 14:58 - [garden]   Humidity:37.31,          Temperature:19.76;
+15-02-2015 14:59 - [server_room]   Humidity:24.56,          Temperature:28.96;
+15-02-2015 14:59 - [garden]   Humidity:37.34,          Temperature:20.00;
+15-02-2015 15:00 - [server_room]   Humidity:23.98,          Temperature:29.12;
+15-02-2015 15:00 - [garden]   Humidity:37.33,          Temperature:19.92;
+15-02-2015 15:01 - [server_room]   Humidity:24.54,          Temperature:28.79;
+15-02-2015 15:01 - [garden]   Humidity:36.80,          Temperature:20.08;
+15-02-2015 15:02 - [server_room]   Humidity:23.98,          Temperature:29.20;
+15-02-2015 15:02 - [garden]   Humidity:37.33,          Temperature:19.92;
+15-02-2015 15:03 - [server_room]   Humidity:23.98,          Temperature:29.23;
+15-02-2015 15:03 - [garden]   Humidity:37.29,          Temperature:19.52;
+15-02-2015 15:04 - [server_room]   Humidity:23.98,          Temperature:29.15;
+15-02-2015 15:04 - [garden]   Humidity:37.31,          Temperature:19.76;
+15-02-2015 15:05 - [server_room]   Humidity:24.54,          Temperature:28.84;
+15-02-2015 15:05 - [garden]   Humidity:37.83,          Temperature:19.52;
+15-02-2015 15:06 - [server_room]   Humidity:24.55,          Temperature:28.96;
+15-02-2015 15:06 - [garden]   Humidity:37.31,          Temperature:19.72;
+15-02-2015 15:07 - [server_room]   Humidity:24.53,          Temperature:28.68;
+15-02-2015 15:07 - [garden]   Humidity:37.34,          Temperature:20.00;
+15-02-2015 15:08 - [server_room]   Humidity:24.52,          Temperature:28.48;
+15-02-2015 15:08 - [garden]   Humidity:36.30,          Temperature:20.56;
+24-02-2015 18:40 - [server_room]   Humidity:39.42,          Temperature:24.59;
+24-02-2015 18:40 - [garden]   Humidity:43.14,          Temperature:24.12;
+24-02-2015 18:41 - [server_room]   Humidity:38.89,          Temperature:24.72;
+24-02-2015 18:41 - [garden]   Humidity:43.16,          Temperature:24.36;
+24-02-2015 18:42 - [server_room]   Humidity:39.42,          Temperature:24.64;
+24-02-2015 18:42 - [garden]   Humidity:43.12,          Temperature:23.96;
+24-02-2015 18:43 - [server_room]   Humidity:38.89,          Temperature:24.68;
+24-02-2015 18:43 - [garden]   Humidity:43.13,          Temperature:24.04;
+24-02-2015 18:44 - [server_room]   Humidity:38.89,          Temperature:24.79;
+24-02-2015 18:44 - [garden]   Humidity:43.09,          Temperature:23.72;
+24-02-2015 18:45 - [server_room]   Humidity:38.90,          Temperature:24.79;
+24-02-2015 18:45 - [garden]   Humidity:43.61,          Temperature:23.64;
+24-02-2015 18:46 - [server_room]   Humidity:38.89,          Temperature:24.72;
+24-02-2015 18:46 - [garden]   Humidity:44.11,          Temperature:23.32;
+24-02-2015 18:48 - [server_room]   Humidity:38.89,          Temperature:24.72;
+24-02-2015 18:48 - [garden]   Humidity:44.09,          Temperature:23.20;
+24-02-2015 18:49 - [server_room]   Humidity:38.89,          Temperature:24.68;
+24-02-2015 18:49 - [garden]   Humidity:44.12,          Temperature:23.52;
+24-02-2015 18:50 - [server_room]   Humidity:38.90,          Temperature:24.79;
+24-02-2015 18:50 - [garden]   Humidity:44.12,          Temperature:23.44;
+24-02-2015 18:51 - [server_room]   Humidity:38.89,          Temperature:24.64;
+24-02-2015 18:51 - [garden]   Humidity:43.63,          Temperature:23.80;
+24-02-2015 18:52 - [server_room]   Humidity:38.90,          Temperature:24.76;
+24-02-2015 18:52 - [garden]   Humidity:43.11,          Temperature:23.88;
+24-02-2015 18:53 - [server_room]   Humidity:38.89,          Temperature:24.68;
+24-02-2015 18:53 - [garden]   Humidity:43.11,          Temperature:23.92;
+24-02-2015 18:54 - [server_room]   Humidity:38.89,          Temperature:24.72;
+24-02-2015 18:54 - [garden]   Humidity:43.12,          Temperature:23.96;
+24-02-2015 18:55 - [server_room]   Humidity:38.90,          Temperature:24.79;
+24-02-2015 18:55 - [garden]   Humidity:43.12,          Temperature:24.00;
+24-02-2015 18:56 - [server_room]   Humidity:38.89,          Temperature:24.72;
+24-02-2015 18:56 - [garden]   Humidity:43.64,          Temperature:23.84;
+24-02-2015 18:57 - [server_room]   Humidity:38.90,          Temperature:24.79;
+24-02-2015 18:57 - [garden]   Humidity:44.15,          Temperature:23.72;
+24-02-2015 18:58 - [server_room]   Humidity:38.89,          Temperature:24.72;
+24-02-2015 18:58 - [garden]   Humidity:44.15,          Temperature:23.72;
+24-02-2015 18:59 - [server_room]   Humidity:38.89,          Temperature:24.72;
+24-02-2015 18:59 - [garden]   Humidity:44.14,          Temperature:23.68;
+24-02-2015 19:00 - [server_room]   Humidity:38.89,          Temperature:24.72;
+24-02-2015 19:00 - [garden]   Humidity:43.63,          Temperature:23.84;
+24-02-2015 19:01 - [server_room]   Humidity:38.89,          Temperature:24.68;
+24-02-2015 19:01 - [garden]   Humidity:43.62,          Temperature:23.76;
+24-02-2015 19:02 - [server_room]   Humidity:38.88,          Temperature:24.59;
+24-02-2015 19:02 - [garden]   Humidity:43.63,          Temperature:23.76;
+24-02-2015 19:03 - [server_room]   Humidity:38.89,          Temperature:24.64;
+24-02-2015 19:03 - [garden]   Humidity:43.63,          Temperature:23.76;
+24-02-2015 19:04 - [server_room]   Humidity:39.42,          Temperature:24.56;
+24-02-2015 19:04 - [garden]   Humidity:44.13,          Temperature:23.56;
+24-02-2015 19:05 - [server_room]   Humidity:38.91,          Temperature:24.92;
+24-02-2015 19:05 - [garden]   Humidity:43.62,          Temperature:23.72;
+24-02-2015 19:06 - [server_room]   Humidity:38.90,          Temperature:24.79;
+24-02-2015 19:06 - [garden]   Humidity:43.61,          Temperature:23.68;
+24-02-2015 19:07 - [server_room]   Humidity:38.89,          Temperature:24.68;
+24-02-2015 19:07 - [garden]   Humidity:44.13,          Temperature:23.60;
+24-02-2015 19:08 - [server_room]   Humidity:38.89,          Temperature:24.72;
+24-02-2015 19:08 - [garden]   Humidity:44.14,          Temperature:23.60;
+24-02-2015 19:09 - [server_room]   Humidity:38.89,          Temperature:24.72;
+24-02-2015 19:09 - [garden]   Humidity:43.61,          Temperature:23.68;
+24-02-2015 19:10 - [server_room]   Humidity:38.89,          Temperature:24.68;
+24-02-2015 19:10 - [garden]   Humidity:44.12,          Temperature:23.52;
+24-02-2015 19:11 - [server_room]   Humidity:38.89,          Temperature:24.76;
+24-02-2015 19:11 - [garden]   Humidity:44.12,          Temperature:23.40;
+24-02-2015 19:12 - [server_room]   Humidity:38.90,          Temperature:24.76;
+24-02-2015 19:12 - [garden]   Humidity:44.12,          Temperature:23.44;
+24-02-2015 19:13 - [server_room]   Humidity:38.89,          Temperature:24.64;
+24-02-2015 19:13 - [garden]   Humidity:44.12,          Temperature:23.52;
+24-02-2015 19:14 - [server_room]   Humidity:38.90,          Temperature:24.79;
+24-02-2015 19:14 - [garden]   Humidity:44.10,          Temperature:23.28;
+24-02-2015 19:15 - [server_room]   Humidity:38.91,          Temperature:24.92;
+24-02-2015 19:15 - [garden]   Humidity:44.10,          Temperature:23.28;
+24-02-2015 19:16 - [server_room]   Humidity:38.89,          Temperature:24.68;
+24-02-2015 19:16 - [garden]   Humidity:44.10,          Temperature:23.28;
+24-02-2015 19:17 - [server_room]   Humidity:38.91,          Temperature:24.87;
+24-02-2015 19:17 - [garden]   Humidity:44.12,          Temperature:23.44;
+24-02-2015 19:18 - [server_room]   Humidity:38.91,          Temperature:24.84;
+24-02-2015 19:18 - [garden]   Humidity:44.10,          Temperature:23.28;
+24-02-2015 19:19 - [server_room]   Humidity:38.37,          Temperature:24.96;
+24-02-2015 19:19 - [garden]   Humidity:44.09,          Temperature:23.20;
+24-02-2015 19:20 - [server_room]   Humidity:38.89,          Temperature:24.64;
+24-02-2015 19:20 - [garden]   Humidity:44.10,          Temperature:23.28;
+24-02-2015 19:21 - [server_room]   Humidity:38.89,          Temperature:24.72;
+24-02-2015 19:21 - [garden]   Humidity:44.11,          Temperature:23.32;
+24-02-2015 19:22 - [server_room]   Humidity:38.89,          Temperature:24.72;
+24-02-2015 19:22 - [garden]   Humidity:44.10,          Temperature:23.28;
+24-02-2015 19:23 - [server_room]   Humidity:38.91,          Temperature:24.84;
+24-02-2015 19:23 - [garden]   Humidity:44.09,          Temperature:23.20;
+24-02-2015 19:24 - [server_room]   Humidity:38.89,          Temperature:24.72;
+24-02-2015 19:24 - [garden]   Humidity:44.08,          Temperature:23.12;
+24-02-2015 19:25 - [server_room]   Humidity:38.89,          Temperature:24.68;
+24-02-2015 19:25 - [garden]   Humidity:44.09,          Temperature:23.20;
+24-02-2015 19:26 - [server_room]   Humidity:38.90,          Temperature:24.76;
+24-02-2015 19:26 - [garden]   Humidity:44.61,          Temperature:23.12;
+24-02-2015 19:27 - [server_room]   Humidity:38.90,          Temperature:24.79;
+24-02-2015 19:27 - [garden]   Humidity:44.08,          Temperature:23.12;
+24-02-2015 19:28 - [server_room]   Humidity:38.90,          Temperature:24.76;
+24-02-2015 19:28 - [garden]   Humidity:44.09,          Temperature:23.16;
+24-02-2015 19:29 - [server_room]   Humidity:38.89,          Temperature:24.72;
+24-02-2015 19:29 - [garden]   Humidity:44.09,          Temperature:23.16;
+24-02-2015 19:30 - [server_room]   Humidity:38.89,          Temperature:24.68;
+24-02-2015 19:30 - [garden]   Humidity:44.08,          Temperature:23.12;
+24-02-2015 19:31 - [server_room]   Humidity:38.89,          Temperature:24.72;
+24-02-2015 19:31 - [garden]   Humidity:44.60,          Temperature:23.04;
+24-02-2015 19:32 - [server_room]   Humidity:38.90,          Temperature:24.76;
+24-02-2015 19:32 - [garden]   Humidity:44.60,          Temperature:23.00;
+24-02-2015 19:33 - [server_room]   Humidity:38.89,          Temperature:24.76;
+24-02-2015 19:33 - [garden]   Humidity:44.60,          Temperature:23.04;
+24-02-2015 19:34 - [server_room]   Humidity:38.90,          Temperature:24.76;
+24-02-2015 19:34 - [garden]   Humidity:44.60,          Temperature:23.04;
+24-02-2015 19:35 - [server_room]   Humidity:38.91,          Temperature:24.76;
+24-02-2015 19:35 - [garden]   Humidity:44.58,          Temperature:22.92;
+24-02-2015 19:36 - [server_room]   Humidity:38.89,          Temperature:24.72;
+24-02-2015 19:36 - [garden]   Humidity:45.10,          Temperature:22.84;
+24-02-2015 19:37 - [server_room]   Humidity:38.90,          Temperature:24.76;
+24-02-2015 19:37 - [garden]   Humidity:45.09,          Temperature:22.76;
+24-02-2015 19:38 - [server_room]   Humidity:38.89,          Temperature:24.68;
+24-02-2015 19:38 - [garden]   Humidity:45.10,          Temperature:22.84;
+24-02-2015 19:39 - [server_room]   Humidity:38.89,          Temperature:24.72;
+24-02-2015 19:39 - [garden]   Humidity:45.08,          Temperature:22.64;
+24-02-2015 19:40 - [server_room]   Humidity:38.89,          Temperature:24.68;
+24-02-2015 19:40 - [garden]   Humidity:45.06,          Temperature:22.56;
+24-02-2015 19:41 - [server_room]   Humidity:38.90,          Temperature:24.79;
+24-02-2015 19:41 - [garden]   Humidity:45.07,          Temperature:22.56;
+24-02-2015 19:42 - [server_room]   Humidity:38.90,          Temperature:24.76;
+24-02-2015 19:42 - [garden]   Humidity:45.07,          Temperature:22.60;
+24-02-2015 19:44 - [server_room]   Humidity:38.90,          Temperature:24.79;
+24-02-2015 19:44 - [garden]   Humidity:44.58,          Temperature:22.88;
+24-02-2015 19:45 - [server_room]   Humidity:38.88,          Temperature:24.59;
+24-02-2015 19:45 - [garden]   Humidity:44.58,          Temperature:22.88;
+24-02-2015 19:46 - [server_room]   Humidity:38.90,          Temperature:24.79;
+24-02-2015 19:46 - [garden]   Humidity:44.59,          Temperature:22.96;
+24-02-2015 19:47 - [server_room]   Humidity:38.89,          Temperature:24.64;
+24-02-2015 19:47 - [garden]   Humidity:44.58,          Temperature:22.88;
+24-02-2015 19:48 - [server_room]   Humidity:38.89,          Temperature:24.72;
+24-02-2015 19:48 - [garden]   Humidity:44.57,          Temperature:22.76;
+24-02-2015 19:49 - [server_room]   Humidity:38.87,          Temperature:24.56;
+24-02-2015 19:49 - [garden]   Humidity:45.09,          Temperature:22.72;
+24-02-2015 19:50 - [server_room]   Humidity:38.90,          Temperature:24.84;
+24-02-2015 19:50 - [garden]   Humidity:44.58,          Temperature:22.92;
+24-02-2015 19:51 - [server_room]   Humidity:38.89,          Temperature:24.76;
+24-02-2015 19:51 - [garden]   Humidity:44.59,          Temperature:22.92;
+24-02-2015 19:52 - [server_room]   Humidity:38.37,          Temperature:24.96;
+24-02-2015 19:52 - [garden]   Humidity:44.58,          Temperature:22.88;
+24-02-2015 19:53 - [server_room]   Humidity:38.89,          Temperature:24.68;
+24-02-2015 19:53 - [garden]   Humidity:44.58,          Temperature:22.88;
+24-02-2015 19:54 - [server_room]   Humidity:38.90,          Temperature:24.76;
+24-02-2015 19:54 - [garden]   Humidity:44.06,          Temperature:23.00;
+24-02-2015 19:55 - [server_room]   Humidity:38.90,          Temperature:24.79;
+24-02-2015 19:55 - [garden]   Humidity:44.58,          Temperature:22.88;
+24-02-2015 19:56 - [server_room]   Humidity:38.89,          Temperature:24.76;
+24-02-2015 19:56 - [garden]   Humidity:44.58,          Temperature:22.88;
+24-02-2015 19:57 - [server_room]   Humidity:38.89,          Temperature:24.72;
+24-02-2015 19:57 - [garden]   Humidity:44.56,          Temperature:22.72;
+24-02-2015 19:58 - [server_room]   Humidity:38.89,          Temperature:24.72;
+24-02-2015 19:58 - [garden]   Humidity:44.57,          Temperature:22.80;
+24-02-2015 19:59 - [server_room]   Humidity:38.37,          Temperature:24.92;
+24-02-2015 19:59 - [garden]   Humidity:44.58,          Temperature:22.88;
+24-02-2015 20:00 - [server_room]   Humidity:38.89,          Temperature:24.64;
+24-02-2015 20:00 - [garden]   Humidity:44.57,          Temperature:22.84;
+24-02-2015 20:01 - [server_room]   Humidity:38.91,          Temperature:24.87;
+24-02-2015 20:01 - [garden]   Humidity:44.57,          Temperature:22.76;
+24-02-2015 20:02 - [server_room]   Humidity:38.89,          Temperature:24.72;
+24-02-2015 20:02 - [garden]   Humidity:44.05,          Temperature:22.84;
+24-02-2015 20:03 - [server_room]   Humidity:38.90,          Temperature:24.79;
+24-02-2015 20:03 - [garden]   Humidity:44.58,          Temperature:22.88;
+24-02-2015 20:04 - [server_room]   Humidity:38.90,          Temperature:24.79;
+24-02-2015 20:04 - [garden]   Humidity:45.07,          Temperature:22.56;
+24-02-2015 20:05 - [server_room]   Humidity:38.90,          Temperature:24.76;
+24-02-2015 20:05 - [garden]   Humidity:44.56,          Temperature:22.72;
+24-02-2015 20:06 - [server_room]   Humidity:38.89,          Temperature:24.64;
+24-02-2015 20:06 - [garden]   Humidity:44.57,          Temperature:22.80;
+24-02-2015 20:07 - [server_room]   Humidity:38.90,          Temperature:24.79;
+24-02-2015 20:07 - [garden]   Humidity:44.56,          Temperature:22.72;
+24-02-2015 20:08 - [server_room]   Humidity:38.90,          Temperature:24.79;
+24-02-2015 20:08 - [garden]   Humidity:44.05,          Temperature:22.88;
+24-02-2015 20:09 - [server_room]   Humidity:38.91,          Temperature:24.84;
+24-02-2015 20:09 - [garden]   Humidity:44.56,          Temperature:22.72;
+24-02-2015 20:10 - [server_room]   Humidity:38.89,          Temperature:24.64;
+24-02-2015 20:10 - [garden]   Humidity:44.55,          Temperature:22.64;
+24-02-2015 20:11 - [server_room]   Humidity:38.90,          Temperature:24.79;
+24-02-2015 20:11 - [garden]   Humidity:44.56,          Temperature:22.72;
+24-02-2015 20:12 - [server_room]   Humidity:38.90,          Temperature:24.76;
+24-02-2015 20:12 - [garden]   Humidity:44.05,          Temperature:22.84;
+24-02-2015 20:13 - [server_room]   Humidity:38.90,          Temperature:24.79;
+24-02-2015 20:13 - [garden]   Humidity:44.55,          Temperature:22.64;
+24-02-2015 20:14 - [server_room]   Humidity:38.90,          Temperature:24.79;
+24-02-2015 20:14 - [garden]   Humidity:44.55,          Temperature:22.64;
+
